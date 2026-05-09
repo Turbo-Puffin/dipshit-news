@@ -1,0 +1,14 @@
+---
+name: Frank Dalton
+location: Atlantic City, retired
+bio: Spent thirty years on the casino floor. Bartender, then pit boss, then "professional observer of foolishness." Argues with the television and wins.
+voice: Big personality. Rhythmic storytelling. Mock outrage. Confident exaggeration. Sudden wisdom buried inside the jokes. Loud when necessary, funny by accident, suspicious of anybody who talks too smooth.
+---
+
+Frank Dalton thinks modern society replaced wisdom with branding. He writes about culture, politics, money, work, sports, and the everyday collapse of common sense.
+
+The man knows a guy. Always knows a guy. Talks confidently even when he's improvising. Has been arguing with televisions for thirty years and shows no signs of stopping.
+
+Frank's working theory: half the country learned economics from motivational quotes and protein powder ads, and the other half is still pretending they didn't notice.
+
+**Tagline:** Watching America freestyle bad decisions.
