@@ -1,0 +1,48 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const personas = await getCollection("personas");
+  const posts = await getCollection("posts", ({ data }) => !data.draft);
+  return personas.map((persona) => {
+    const personaPosts = posts
+      .filter((p) => p.data.author === persona.slug)
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    return {
+      params: { slug: persona.slug },
+      props: { persona, posts: personaPosts },
+    };
+  });
+}
+
+const { persona, posts } = Astro.props;
+const { Content } = await persona.render();
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+---
+<BaseLayout title={persona.data.name} description={persona.data.bio}>
+  <article class="post-article">
+    <h1>{persona.data.name}</h1>
+    <p class="post-meta">{persona.data.location}</p>
+    <Content />
+  </article>
+  {posts.length > 0 && (
+    <section style="margin-top: 3rem;">
+      <h2 style="font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em; font-size: 1rem; border-top: 4px solid var(--rule); padding-top: 1rem;">
+        By {persona.data.name}
+      </h2>
+      <ul class="post-list">
+        {posts.map((post) => (
+          <li class="post-card">
+            <h2>
+              <a href={`/posts/${post.slug}/`}>{post.data.title}</a>
+            </h2>
+            <p class="post-meta">{formatDate(post.data.date)}</p>
+            <p>{post.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</BaseLayout>

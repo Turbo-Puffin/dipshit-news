@@ -1,0 +1,47 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const personaCache = new Map<string, { name: string; slug: string }>();
+for (const post of posts) {
+  if (!personaCache.has(post.data.author)) {
+    const persona = await getEntry("personas", post.data.author);
+    if (persona) {
+      personaCache.set(post.data.author, {
+        name: persona.data.name,
+        slug: persona.slug,
+      });
+    }
+  }
+}
+
+const formatDate = (d: Date) =>
+  d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+---
+<BaseLayout title="Dipshit News">
+  <ul class="post-list">
+    {posts.map((post) => {
+      const author = personaCache.get(post.data.author);
+      return (
+        <li class="post-card">
+          <h2>
+            <a href={`/posts/${post.slug}/`}>{post.data.title}</a>
+          </h2>
+          <p class="post-meta">
+            {formatDate(post.data.date)}
+            {author && (
+              <>
+                {" "}&middot; By <a href={`/authors/${author.slug}/`}>{author.name}</a>
+              </>
+            )}
+          </p>
+          <p>{post.data.description}</p>
+        </li>
+      );
+    })}
+  </ul>
+</BaseLayout>
