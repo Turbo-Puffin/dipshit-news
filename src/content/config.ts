@@ -16,11 +16,12 @@ const posts = defineCollection({
 
 const personas = defineCollection({
   type: 'content',
-  schema: z.object({
+  schema: ({ image }) => z.object({
     name: z.string(),
     location: z.string(),
     bio: z.string(),
     voice: z.string(),
+    portrait: image().optional(),
   }),
 });
 

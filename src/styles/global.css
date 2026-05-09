@@ -177,6 +177,23 @@ a:focus-visible {
   padding: 1rem 1.25rem;
   margin-top: 3rem;
   font-size: 0.95rem;
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.author-bio-portrait {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--ink);
+}
+
+.author-bio-text {
+  flex: 1;
+  min-width: 0;
 }
 
 .author-bio h3 {
@@ -194,6 +211,16 @@ a:focus-visible {
 
 .author-bio p:last-child {
   margin-bottom: 0;
+}
+
+.author-page-portrait {
+  display: block;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--ink);
+  margin: 0 0 1.5rem;
 }
 
 .skip-link {
