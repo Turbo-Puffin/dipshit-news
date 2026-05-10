@@ -9,7 +9,9 @@ import ArticleCard from "../components/ArticleCard.astro";
 import LeaderboardRow from "../components/LeaderboardRow.astro";
 
 const all = (await getCollection("articles", ({ data }) => !data.draft)).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+  (a, b) =>
+    b.data.date.valueOf() - a.data.date.valueOf() ||
+    b.data.score - a.data.score
 );
 
 const lead = all.find((a) => a.data.featured) ?? all[0];
@@ -73,6 +75,12 @@ const leadDate = lead?.data.date.toLocaleDateString("en-US", {
           <li><ArticleCard article={article} /></li>
         ))}
       </ul>
+      <p class="recent-cta">
+        <a class="recent-archive-btn" href="/previously/">
+          Read every dipshit moment we've filed →
+        </a>
+        <span class="meta recent-archive-count">{all.length} entries.</span>
+      </p>
     </section>
   )}
 
@@ -222,6 +230,36 @@ const leadDate = lead?.data.date.toLocaleDateString("en-US", {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 28px 32px;
+  }
+  .recent-cta {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin: 32px 0 0;
+    padding-top: 18px;
+    border-top: 1px solid var(--ink);
+    flex-wrap: wrap;
+  }
+  .recent-archive-btn {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    padding: 10px 16px;
+    border: 1px solid var(--ink);
+    background: var(--paper);
+  }
+  .recent-archive-btn:hover,
+  .recent-archive-btn:focus-visible {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .recent-archive-count {
+    color: var(--ink-60);
   }
 
   .leaderboard {
