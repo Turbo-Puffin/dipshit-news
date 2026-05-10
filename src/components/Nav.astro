@@ -25,9 +25,24 @@ const {
     <div class="masthead-strip">
       <span class="meta">{volume} · {number}</span>
       <span class="meta">{date}</span>
-      <span class="meta masthead-strip-right">
-        Five dollars a month <span class="masthead-strip-soon">(coming soon)</span>
-      </span>
+      <a class="masthead-strip-rss" href="/rss.xml" aria-label="RSS feed">
+        <svg
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.75"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          width="14"
+          height="14"
+          aria-hidden="true"
+        >
+          <path d="M4 11a9 9 0 0 1 9 9" />
+          <path d="M4 4a16 16 0 0 1 16 16" />
+          <circle cx="5" cy="19" r="1" fill="currentColor" />
+        </svg>
+        <span>RSS</span>
+      </a>
     </div>
     <a class="masthead-logo" href="/" aria-label="Dipshit — home">
       <Logo height={64} ariaLabel="Dipshit" />
@@ -41,7 +56,6 @@ const {
       )}
     </nav>
   </div>
-  <hr />
 </header>
 
 <style>
@@ -61,12 +75,22 @@ const {
     border-bottom: 1px solid var(--ink-15);
     flex-wrap: wrap;
   }
-  .masthead-strip-right {
+  .masthead-strip-rss {
     margin-left: auto;
-    color: var(--ink-40);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--ink-60);
+    text-decoration: none;
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
   }
-  .masthead-strip-soon {
-    color: var(--ink-40);
+  .masthead-strip-rss:hover,
+  .masthead-strip-rss:focus-visible {
+    color: var(--ink);
   }
   .masthead-logo {
     display: block;
@@ -105,7 +129,7 @@ const {
     .masthead-strip {
       font-size: 10px;
     }
-    .masthead-strip-right {
+    .masthead-strip-rss span {
       display: none;
     }
     .masthead-logo {
