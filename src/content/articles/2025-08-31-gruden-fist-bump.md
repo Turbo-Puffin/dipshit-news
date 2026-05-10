@@ -9,7 +9,7 @@ tags: ["jon-gruden", "fist-bump", "outfit-detective"]
 sourceUrl: "https://thespun.com/golf/photo-of-president-trump-playing-golf-with-jon-gruden"
 sourcePublisher: "The Spun"
 readTime: "3 min read"
-blurb: "Trump posts a fist-bump with Gruden. Internet notes the shirt is from a week prior. Buddy."
+blurb: "President posts a fist-bump with Gruden. Internet notes the shirt is from a week prior. Buddy."
 rubric:
   - label: "Factual basis"
     score: 11
