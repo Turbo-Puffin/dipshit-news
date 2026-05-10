@@ -1,0 +1,60 @@
+---
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+import InkHatch from "./InkHatch.astro";
+
+interface Props {
+  photo?: ImageMetadata;
+  alt?: string;
+  caption?: string;
+  ratio?: string;
+  fallbackQuote?: string;
+}
+
+const {
+  photo,
+  alt = "",
+  caption,
+  ratio = "16 / 11",
+  fallbackQuote = "No photograph on file.",
+} = Astro.props;
+---
+<figure class="potoh">
+  {photo ? (
+    <Image
+      src={photo}
+      alt={alt}
+      style={`aspect-ratio: ${ratio};`}
+      class="potoh-img"
+      widths={[400, 800, 1200, 1600]}
+      sizes="(min-width: 768px) 100vw, 100vw"
+    />
+  ) : (
+    <InkHatch ratio={ratio} label={fallbackQuote} />
+  )}
+  {caption && (
+    <figcaption class="potoh-caption">{caption}</figcaption>
+  )}
+</figure>
+
+<style>
+  .potoh {
+    margin: 0;
+  }
+  .potoh-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    filter: grayscale(100%) contrast(1.05);
+    border: 1px solid var(--ink);
+  }
+  .potoh-caption {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-60);
+    margin-top: 8px;
+  }
+</style>

@@ -1,0 +1,103 @@
+---
+interface Props {
+  articleId: string;
+}
+
+const { articleId } = Astro.props;
+const options = [60, 70, 80, 90, 100];
+---
+<section class="vote" data-article-id={articleId} aria-label="Member vote">
+  <p class="vote-label">Was this dumb enough?</p>
+  <div class="vote-buttons" role="radiogroup" aria-label="Stupid score">
+    {options.map((n) => (
+      <button
+        type="button"
+        class="vote-btn"
+        data-vote={n}
+        role="radio"
+        aria-checked="false"
+      >
+        {n}<span class="vote-of">/100</span>
+      </button>
+    ))}
+  </div>
+  <p class="vote-hint" data-vote-hint>
+    Members can adjust the score. <a href="/#subscribe">Become a member.</a>
+  </p>
+</section>
+
+<style>
+  .vote {
+    margin: 32px 0;
+    padding: 20px 0;
+    border-top: 1px solid var(--ink-15);
+    border-bottom: 1px solid var(--ink-15);
+  }
+  .vote-label {
+    font-family: var(--font-head);
+    font-style: italic;
+    font-weight: 600;
+    font-size: 22px;
+    margin: 0 0 14px;
+  }
+  .vote-buttons {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .vote-btn {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    background: transparent;
+    border: 1px solid var(--ink);
+    padding: 12px 16px;
+    cursor: pointer;
+  }
+  .vote-btn[aria-checked="true"] {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .vote-btn:focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 3px;
+  }
+  .vote-of {
+    color: var(--ink-40);
+    margin-left: 2px;
+  }
+  .vote-btn[aria-checked="true"] .vote-of {
+    color: rgba(244, 240, 232, 0.6);
+  }
+  .vote-hint {
+    margin: 14px 0 0;
+    font-family: var(--font-body);
+    font-style: italic;
+    color: var(--ink-60);
+    font-size: 14px;
+  }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>(".vote").forEach((root) => {
+    const buttons = root.querySelectorAll<HTMLButtonElement>(".vote-btn");
+    const hint = root.querySelector<HTMLElement>("[data-vote-hint]");
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const score = btn.dataset.vote;
+        buttons.forEach((b) => b.setAttribute("aria-checked", "false"));
+        btn.setAttribute("aria-checked", "true");
+        if (hint) {
+          hint.textContent = `You voted ${score}/100. Members can move the public number — `;
+          const a = document.createElement("a");
+          a.href = "/#subscribe";
+          a.textContent = "subscribe to count.";
+          hint.appendChild(a);
+        }
+      });
+    });
+  });
+</script>

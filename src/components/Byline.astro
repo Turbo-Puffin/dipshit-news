@@ -1,0 +1,76 @@
+---
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  persona: CollectionEntry<"personas">;
+  size?: number;
+  showBeat?: boolean;
+}
+
+const { persona, size = 36, showBeat = true } = Astro.props;
+---
+<div class="byline" style={`--avatar-size: ${size}px`}>
+  {persona.data.portrait && (
+    <Image
+      class="byline-avatar"
+      src={persona.data.portrait}
+      alt=""
+      width={size * 2}
+      height={size * 2}
+      loading="lazy"
+      decoding="async"
+    />
+  )}
+  <div class="byline-text">
+    <a class="byline-name" href={`/authors/${persona.slug}/`}>
+      <span aria-hidden="true">By </span>{persona.data.name}
+    </a>
+    {showBeat && (
+      <span class="byline-beat">{persona.data.beat}</span>
+    )}
+  </div>
+</div>
+
+<style>
+  .byline {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .byline-avatar {
+    width: var(--avatar-size);
+    height: var(--avatar-size);
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow:
+      0 0 0 1px var(--ink-15),
+      0 0 0 3px var(--paper),
+      0 0 0 4px var(--ink);
+    flex-shrink: 0;
+  }
+  .byline-text {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    line-height: 1.2;
+  }
+  .byline-name {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .byline-name:hover {
+    text-decoration: underline;
+  }
+  .byline-beat {
+    font-family: var(--font-body);
+    font-style: italic;
+    font-size: 13px;
+    color: var(--ink-60);
+  }
+</style>

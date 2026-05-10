@@ -1,0 +1,12 @@
+// @ts-check
+import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
+
+export default defineConfig({
+  site: 'https://dipshit.news',
+  integrations: [sitemap()],
+  build: {
+    inlineStylesheets: 'auto',
+  },
+  compressHTML: true,
+});

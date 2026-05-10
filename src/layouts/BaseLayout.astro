@@ -1,0 +1,63 @@
+---
+import "@fontsource/playfair-display/900.css";
+import "@fontsource/playfair-display/600.css";
+import "@fontsource/playfair-display/900-italic.css";
+import "@fontsource/playfair-display/600-italic.css";
+import "@fontsource/crimson-pro/400.css";
+import "@fontsource/crimson-pro/400-italic.css";
+import "@fontsource/crimson-pro/600.css";
+import "@fontsource/ibm-plex-mono/500.css";
+import "@fontsource/ibm-plex-mono/700.css";
+import "../styles/global.css";
+
+import Nav from "../components/Nav.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  noNav?: boolean;
+}
+
+const {
+  title,
+  description = "A daily satirical record of presidential dipshittery. Sourced from real reporting; the editorial tone is the joke.",
+  ogImage = "/og-default.png",
+  noNav = false,
+} = Astro.props;
+
+const fullTitle = title === "Dipshit" ? title : `${title} — Dipshit`;
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#1a1614" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="Dipshit" href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="Dipshit" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Skip to content</a>
+    {!noNav && <Nav />}
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

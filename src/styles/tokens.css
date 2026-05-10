@@ -1,0 +1,26 @@
+:root {
+  /* Color */
+  --paper: #f4f0e8;
+  --paper2: #ebe6da;
+  --ink: #1a1614;
+  --ink-60: rgba(26, 22, 20, 0.6);
+  --ink-40: rgba(26, 22, 20, 0.4);
+  --ink-15: rgba(26, 22, 20, 0.15);
+  --yellow: #ffbf49;
+
+  /* Type */
+  --font-head: "Playfair Display", "Times New Roman", Georgia, serif;
+  --font-body: "Crimson Pro", "Crimson Text", Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  /* Layout */
+  --container-max: 1280px;
+  --container-pad: 56px;
+  --measure: 720px;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --container-pad: 18px;
+  }
+}

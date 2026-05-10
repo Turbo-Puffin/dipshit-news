@@ -1,0 +1,101 @@
+---
+import ScoreDisc from "./ScoreDisc.astro";
+
+interface Props {
+  items: Array<{
+    label: string;
+    score: number;
+    cap: number;
+    note: string;
+  }>;
+  total: number;
+}
+
+const { items, total } = Astro.props;
+---
+<section class="rubric" aria-label="Stupid score breakdown">
+  <header class="rubric-head">
+    <ScoreDisc score={total} size={64} label="FINAL" />
+    <h2 class="rubric-title">The breakdown.</h2>
+  </header>
+  <ul class="rubric-rows">
+    {items.map((row) => (
+      <li class="rubric-row">
+        <div class="rubric-label">
+          <span class="rubric-criterion">{row.label}</span>
+          <span class="rubric-note">{row.note}</span>
+        </div>
+        <span class="rubric-score">
+          {row.score}<span class="rubric-cap">/{row.cap}</span>
+        </span>
+      </li>
+    ))}
+  </ul>
+</section>
+
+<style>
+  .rubric {
+    border-top: 2px solid var(--ink);
+    border-bottom: 2px solid var(--ink);
+    padding: 28px 0 24px;
+    margin: 48px 0;
+  }
+  .rubric-head {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+  .rubric-title {
+    font-family: var(--font-head);
+    font-size: 28px;
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    line-height: 1;
+    margin: 0;
+  }
+  .rubric-rows {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .rubric-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    padding: 12px 0;
+    border-top: 1px solid var(--ink-15);
+  }
+  .rubric-row:first-child {
+    border-top: 0;
+  }
+  .rubric-label {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .rubric-criterion {
+    font-family: var(--font-head);
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--ink);
+  }
+  .rubric-note {
+    font-family: var(--font-body);
+    font-style: italic;
+    font-size: 13px;
+    color: var(--ink-60);
+  }
+  .rubric-score {
+    font-family: var(--font-head);
+    font-weight: 900;
+    font-size: 22px;
+    color: var(--ink);
+    flex-shrink: 0;
+  }
+  .rubric-cap {
+    color: var(--ink-40);
+    font-weight: 700;
+  }
+</style>
