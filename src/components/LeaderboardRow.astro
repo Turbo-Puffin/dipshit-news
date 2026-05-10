@@ -9,13 +9,14 @@ interface Props {
 }
 
 const { rank, score, headline, date, delta = "—", href } = Astro.props;
+const isNew = delta === "NEW";
 ---
 <a class="lbrow" href={href}>
   <span class="lbrow-rank">{rank.toString().padStart(2, "0")}.</span>
   <span class="lbrow-score">{score}<span class="lbrow-of">/100</span></span>
   <span class="lbrow-headline">{headline}</span>
   <span class="lbrow-date">{date}</span>
-  <span class="lbrow-delta">{delta}</span>
+  <span class={`lbrow-delta${isNew ? " lbrow-delta-new" : ""}`}>{delta}</span>
 </a>
 
 <style>
@@ -70,6 +71,14 @@ const { rank, score, headline, date, delta = "—", href } = Astro.props;
     text-transform: uppercase;
     color: var(--ink-40);
     text-align: right;
+  }
+  .lbrow-delta-new {
+    background: var(--yellow);
+    color: var(--ink);
+    border: 1px solid var(--ink);
+    padding: 3px 7px;
+    text-align: center;
+    justify-self: end;
   }
   @media (max-width: 768px) {
     .lbrow {
