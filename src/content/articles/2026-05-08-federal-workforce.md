@@ -1,7 +1,7 @@
 ---
 headline: "Administration claims 345,000 federal workers gone; the calendar of when they are gone is somewhat aspirational."
 deck: "A White House press release announces a workforce reduction. The actual departures are still in the future tense."
-date: 2026-05-07
+date: 2026-05-08
 author: vincent-crowe
 score: 71
 category: staffing
