@@ -1,7 +1,7 @@
 ---
 headline: "President says consumer confidence is way up; the survey says it is near a record low."
 deck: "Three of the standard sentiment trackers disagree, in writing, with the man at the microphone."
-date: 2026-05-08
+date: 2026-05-04
 author: carla-boone
 score: 73
 category: economy
