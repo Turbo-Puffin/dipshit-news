@@ -30,7 +30,7 @@ jobs:
           destination: /
           storageZoneName: ${{ secrets.BUNNY_STORAGE_ZONE_NAME }}
           storagePassword: ${{ secrets.BUNNY_STORAGE_PASSWORD }}
-          storageEndpoint: storage.bunnycdn.com
+          storageEndpoint: ny.storage.bunnycdn.com
           accessKey: ${{ secrets.BUNNY_ACCESS_KEY }}
           pullZoneId: ${{ secrets.BUNNY_PULL_ZONE_ID }}
           upload: true
