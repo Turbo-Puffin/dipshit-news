@@ -1,0 +1,20 @@
+{
+  "name": "dipshit-news",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.12",
+    "@astrojs/sitemap": "^3.6.1",
+    "@fontsource/crimson-pro": "^5.2.5",
+    "@fontsource/ibm-plex-mono": "^5.2.5",
+    "@fontsource/playfair-display": "^5.2.5",
+    "astro": "^5.16.3"
+  }
+}

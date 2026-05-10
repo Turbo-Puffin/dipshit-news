@@ -1,0 +1,62 @@
+---
+interface Props {
+  score: number;
+  size?: number;
+  label?: string;
+  showLabel?: boolean;
+}
+
+const { score, size = 88, label = "FINAL", showLabel = true } = Astro.props;
+const numberSize = Math.round(size * 0.42);
+---
+<div class="scoredisc-wrap">
+  <div
+    class="scoredisc"
+    style={`--disc-size: ${size}px; --disc-num: ${numberSize}px;`}
+    aria-label={`Stupid score: ${score} out of 100`}
+  >
+    <span aria-hidden="true">{score}</span>
+  </div>
+  {showLabel && (
+    <span class="scoredisc-label">
+      {label} <span class="scoredisc-of">· /100</span>
+    </span>
+  )}
+</div>
+
+<style>
+  .scoredisc-wrap {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .scoredisc {
+    width: var(--disc-size);
+    height: var(--disc-size);
+    border-radius: 50%;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--font-head);
+    font-weight: 900;
+    font-size: var(--disc-num);
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:
+      0 0 0 2px var(--paper),
+      0 0 0 3px var(--ink);
+    flex-shrink: 0;
+  }
+  .scoredisc-label {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .scoredisc-of {
+    color: var(--ink-40);
+  }
+</style>

@@ -1,0 +1,140 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+
+export async function getStaticPaths() {
+  const personas = await getCollection("personas");
+  const articles = await getCollection("articles", ({ data }) => !data.draft);
+  return personas.map((persona) => ({
+    params: { slug: persona.slug },
+    props: {
+      persona,
+      articles: articles
+        .filter((a) => a.data.author === persona.slug)
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    },
+  }));
+}
+
+const { persona, articles } = Astro.props;
+const { Content } = await persona.render();
+---
+<BaseLayout title={persona.data.name} description={persona.data.bio}>
+  <section class="container author-hero">
+    {persona.data.portrait && (
+      <Image
+        class="author-portrait"
+        src={persona.data.portrait}
+        alt={`Portrait of ${persona.data.name}`}
+        width={400}
+        height={400}
+      />
+    )}
+    <div>
+      <p class="kicker author-beat">{persona.data.beat}{persona.data.location ? ` · ${persona.data.location}` : ""}.</p>
+      <h1 class="author-name">{persona.data.name}.</h1>
+      <p class="author-voice"><em>{persona.data.voice}</em></p>
+      <div class="author-bio-prose">
+        <Content />
+      </div>
+    </div>
+  </section>
+
+  {articles.length > 0 && (
+    <section class="container author-archive" aria-label={`Posts by ${persona.data.name}`}>
+      <header class="section-head">
+        <h2 class="section-title">By {persona.data.shortName}.</h2>
+      </header>
+      <ul class="author-grid">
+        {articles.map((article) => (
+          <li><ArticleCard article={article} /></li>
+        ))}
+      </ul>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .author-hero {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 48px;
+    align-items: start;
+  }
+  .author-portrait {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow:
+      0 0 0 1px var(--ink-15),
+      0 0 0 4px var(--paper),
+      0 0 0 5px var(--ink);
+  }
+  .author-beat {
+    color: var(--ink-60);
+    margin: 0 0 8px;
+  }
+  .author-name {
+    font-family: var(--font-head);
+    font-weight: 900;
+    font-size: clamp(40px, 6vw, 64px);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    margin: 0 0 14px;
+  }
+  .author-voice {
+    font-family: var(--font-body);
+    font-size: 18px;
+    color: var(--ink-60);
+    margin: 0 0 16px;
+  }
+  .author-bio-prose {
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.6;
+    color: var(--ink);
+  }
+  .author-archive {
+    padding-top: 24px;
+    padding-bottom: 32px;
+    border-top: 1px solid var(--ink);
+  }
+  .section-head {
+    margin-bottom: 28px;
+    padding-top: 24px;
+  }
+  .section-title {
+    font-family: var(--font-head);
+    font-weight: 900;
+    font-size: clamp(32px, 4.5vw, 48px);
+    line-height: 1;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .author-grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px 32px;
+  }
+  @media (max-width: 768px) {
+    .author-hero {
+      grid-template-columns: 1fr;
+      gap: 24px;
+    }
+    .author-portrait {
+      width: 150px;
+      height: 150px;
+    }
+    .author-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

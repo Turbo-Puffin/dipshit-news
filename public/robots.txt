@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dipshit.news/sitemap-index.xml

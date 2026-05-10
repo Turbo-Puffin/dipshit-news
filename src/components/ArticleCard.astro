@@ -1,0 +1,109 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
+import { Image } from "astro:assets";
+import InkHatch from "./InkHatch.astro";
+import ScoreDisc from "./ScoreDisc.astro";
+
+interface Props {
+  article: CollectionEntry<"articles">;
+}
+
+const { article } = Astro.props;
+const persona = await getEntry("personas", article.data.author);
+const dateFmt = article.data.date.toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+});
+---
+<article class="card">
+  <a class="card-link" href={`/articles/${article.slug}/`}>
+    <div class="card-media">
+      {article.data.photo ? (
+        <Image
+          src={article.data.photo}
+          alt={article.data.photoAlt ?? ""}
+          class="card-img"
+          width={600}
+          height={400}
+          loading="lazy"
+          decoding="async"
+        />
+      ) : (
+        <InkHatch ratio="3 / 2" label="No photograph on file." sub="Editor's note" ariaHidden />
+      )}
+    </div>
+    <div class="card-body">
+      <p class="meta card-meta">
+        <span>{dateFmt}</span>
+        <span aria-hidden="true">·</span>
+        <span>{persona ? persona.data.shortName : article.data.author}</span>
+      </p>
+      <h3 class="card-headline">{article.data.headline}</h3>
+      {article.data.blurb && <p class="card-blurb">{article.data.blurb}</p>}
+      <div class="card-foot">
+        <ScoreDisc score={article.data.score} size={48} showLabel={false} />
+        <span class="meta card-cat">{article.data.category}.</span>
+      </div>
+    </div>
+  </a>
+</article>
+
+<style>
+  .card {
+    display: block;
+  }
+  .card-link {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .card-media {
+    border-bottom: 1px solid var(--ink-15);
+    padding-bottom: 0;
+  }
+  .card-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 3 / 2;
+    filter: grayscale(100%) contrast(1.05);
+    border: 1px solid var(--ink);
+  }
+  .card-meta {
+    display: flex;
+    gap: 8px;
+    margin: 0 0 6px;
+  }
+  .card-headline {
+    font-family: var(--font-head);
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 1.15;
+    margin: 0 0 8px;
+    letter-spacing: -0.005em;
+  }
+  .card-link:hover .card-headline,
+  .card-link:focus-visible .card-headline {
+    text-decoration: underline;
+  }
+  .card-blurb {
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.55;
+    color: var(--ink-60);
+    margin: 0 0 14px;
+  }
+  .card-foot {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: auto;
+  }
+  .card-cat {
+    color: var(--ink-60);
+    text-transform: capitalize;
+  }
+</style>

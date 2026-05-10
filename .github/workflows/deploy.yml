@@ -1,0 +1,38 @@
+name: Deploy to Bunny.net
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "yarn"
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Build site
+        run: yarn build
+
+      - name: Deploy to Bunny.net Storage
+        uses: ayeressian/bunnycdn-storage-deploy@v2.2.2
+        with:
+          source: dist
+          destination: /
+          storageZoneName: ${{ secrets.BUNNY_STORAGE_ZONE_NAME }}
+          storagePassword: ${{ secrets.BUNNY_STORAGE_PASSWORD }}
+          storageEndpoint: storage.bunnycdn.com
+          accessKey: ${{ secrets.BUNNY_ACCESS_KEY }}
+          pullZoneId: ${{ secrets.BUNNY_PULL_ZONE_ID }}
+          upload: true
+          remove: true
+          purgePullZone: true

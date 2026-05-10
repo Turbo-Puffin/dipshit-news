@@ -1,0 +1,126 @@
+---
+import Logo from "./Logo.astro";
+
+interface Props {
+  volume?: string;
+  number?: string;
+  date?: string;
+  hideSubscribe?: boolean;
+}
+
+const {
+  volume = "vol. 01",
+  number = "№001",
+  date = new Date().toLocaleDateString("en-US", {
+    weekday: "long",
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+  }),
+  hideSubscribe = true,
+} = Astro.props;
+---
+<header class="masthead">
+  <div class="container">
+    <div class="masthead-strip">
+      <span class="meta">{volume} · {number}</span>
+      <span class="meta">{date}</span>
+      <span class="meta masthead-strip-right">
+        Five dollars a month <span class="masthead-strip-soon">(coming soon)</span>
+      </span>
+    </div>
+    <a class="masthead-logo" href="/" aria-label="Dipshit — home">
+      <Logo height={64} ariaLabel="Dipshit" />
+    </a>
+    <nav class="masthead-nav" aria-label="Sections">
+      <a href="/" class="masthead-link">Today.</a>
+      <a href="/#archive" class="masthead-link">Archive.</a>
+      <a href="/#leaderboard" class="masthead-link">Score.</a>
+      {!hideSubscribe && (
+        <a href="/subscribe/" class="masthead-link">Subscribe.</a>
+      )}
+    </nav>
+  </div>
+  <hr />
+</header>
+
+<style>
+  .masthead {
+    background: var(--paper);
+  }
+  .masthead .container {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .masthead-strip {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--ink-15);
+    flex-wrap: wrap;
+  }
+  .masthead-strip-right {
+    margin-left: auto;
+    color: var(--ink-40);
+  }
+  .masthead-strip-soon {
+    color: var(--ink-40);
+  }
+  .masthead-logo {
+    display: block;
+    margin: 18px 0 14px;
+    text-decoration: none;
+    width: max-content;
+  }
+  .masthead-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    padding-top: 8px;
+    border-top: 1px solid var(--ink);
+  }
+  .masthead-link {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    padding: 4px 0;
+  }
+  .masthead-link:hover,
+  .masthead-link:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+  }
+
+  @media (max-width: 768px) {
+    .masthead .container {
+      padding-top: 12px;
+      padding-bottom: 12px;
+    }
+    .masthead-strip {
+      font-size: 10px;
+    }
+    .masthead-strip-right {
+      display: none;
+    }
+    .masthead-logo {
+      margin: 12px 0 10px;
+    }
+    .masthead-logo :global(svg) {
+      height: 44px !important;
+      width: auto !important;
+    }
+    .masthead-nav {
+      gap: 14px;
+    }
+    .masthead-link {
+      font-size: 10px;
+      letter-spacing: 0.14em;
+    }
+  }
+</style>

@@ -1,0 +1,67 @@
+---
+interface Props {
+  ratio?: string;
+  label?: string;
+  sub?: string;
+  ariaHidden?: boolean;
+}
+
+const {
+  ratio = "16 / 11",
+  label = "No photograph on file.",
+  sub = "Editor's note",
+  ariaHidden = false,
+} = Astro.props;
+---
+<div
+  class="inkhatch"
+  style={`aspect-ratio: ${ratio};`}
+  role={ariaHidden ? "presentation" : "img"}
+  aria-label={ariaHidden ? undefined : label}
+  aria-hidden={ariaHidden}
+>
+  <div class="inkhatch-card">
+    <p class="inkhatch-quote">{label}</p>
+    <p class="inkhatch-sub">{sub}</p>
+  </div>
+</div>
+
+<style>
+  .inkhatch {
+    background-color: var(--paper2);
+    background-image:
+      repeating-linear-gradient(0deg, var(--ink-15) 0 1px, transparent 1px 5px),
+      repeating-linear-gradient(90deg, var(--ink-15) 0 1px, transparent 1px 7px);
+    border: 1px solid var(--ink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    width: 100%;
+  }
+  .inkhatch-card {
+    background: var(--paper);
+    border: 1px solid var(--ink);
+    padding: 24px 28px;
+    max-width: 80%;
+    text-align: center;
+  }
+  .inkhatch-quote {
+    font-family: var(--font-head);
+    font-style: italic;
+    font-weight: 600;
+    font-size: clamp(18px, 2.4vw, 26px);
+    line-height: 1.3;
+    color: var(--ink);
+    margin: 0 0 8px;
+  }
+  .inkhatch-sub {
+    font-family: var(--font-mono);
+    font-weight: 700;
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-60);
+    margin: 0;
+  }
+</style>
