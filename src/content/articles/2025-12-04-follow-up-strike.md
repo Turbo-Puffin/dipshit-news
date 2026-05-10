@@ -6,8 +6,8 @@ author: frank-dalton
 score: 84
 category: foreign
 tags: ["caribbean-strike", "hegseth", "rules-of-engagement"]
-sourceUrl: "https://www.washingtonpost.com/national-security/2025/12/04/hegseth-second-strike-caribbean-boat/"
-sourcePublisher: "Washington Post"
+sourceUrl: "https://www.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-radio-survivors"
+sourcePublisher: "CNN Politics"
 readTime: "3 min read"
 blurb: "The press shop confirmed the second strike. The first strike already left two men in the water. The second strike was for them. Buddy."
 rubric:
