@@ -10,7 +10,7 @@ sourceUrl: "https://www.mprnews.org/story/2026/01/19/ice-presence-affects-annual
 sourcePublisher: "MPR News"
 readTime: "3 min read"
 blurb: "On MLK Day. In Minneapolis. ICE goes through the door, points guns at a five-year-old, then says he's a citizen."
-featured: true
+featured: false
 rubric:
   - label: "Factual basis"
     score: 18

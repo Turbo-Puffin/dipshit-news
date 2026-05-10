@@ -11,7 +11,7 @@ sourcePublisher: "NPR"
 pull: "He posted the picture. With a caption. Like a vacation photo."
 readTime: "3 min read"
 blurb: "Air strike on the capital, special forces grab the head of state, and the President posts the trophy photo by lunch."
-featured: true
+featured: false
 rubric:
   - label: "Factual basis"
     score: 18
