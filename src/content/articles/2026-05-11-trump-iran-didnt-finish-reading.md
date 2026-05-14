@@ -4,7 +4,7 @@ deck: "Iran submitted a peace plan. The President called it unacceptable. He als
 date: 2026-05-11
 author: vincent-crowe
 score: 77
-category: foreign-policy
+category: foreign
 tags: ["iran", "ceasefire", "diplomacy", "hormuz"]
 sourceUrl: "https://www.theguardian.com/world/iran"
 sourcePublisher: "The Guardian"
