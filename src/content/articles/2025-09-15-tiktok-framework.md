@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/09/15/tech/trump-tiktok-china-deal"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Bessent announces a TikTok framework from Madrid. China has not. The deadline is Friday. Hon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

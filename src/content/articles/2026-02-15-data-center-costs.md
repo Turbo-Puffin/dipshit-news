@@ -10,9 +10,6 @@ sourceUrl: "https://www.foxnews.com/politics/trumps-12b-rare-earth-plan-targets-
 sourcePublisher: "Fox News"
 readTime: "2 min read"
 blurb: "The trade adviser told a Sunday show data center builders should pay their own way on power. He is not the rate-setter."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

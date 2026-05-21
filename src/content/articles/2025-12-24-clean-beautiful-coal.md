@@ -10,9 +10,6 @@ sourceUrl: "https://www.washingtonpost.com/style/power/2025/12/25/trump-christma
 sourcePublisher: "Washington Post"
 readTime: "2 min read"
 blurb: "Eight-year-old in Kansas. Hopes Santa won't bring her coal. The President says: clean, beautiful coal. Hon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

@@ -10,9 +10,6 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-st
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "The 48-hour ultimatum became a 72-hour ultimatum became a 5-day postponement. Iran says no talks have occurred."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

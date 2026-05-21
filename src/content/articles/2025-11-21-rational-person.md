@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/11/21/politics/trump-mamdani-oval-office-me
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "He called him a communist on Tuesday. He called him rational on Friday. The mayor-elect did not change."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

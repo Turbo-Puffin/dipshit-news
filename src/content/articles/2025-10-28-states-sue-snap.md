@@ -10,9 +10,6 @@ sourceUrl: "https://www.gov.ca.gov/2025/10/28/governor-newsom-sues-trump-adminis
 sourcePublisher: "Office of the Governor of California"
 readTime: "2 min read"
 blurb: "Twenty-five states walked into court Tuesday to make the federal government use the rainy-day fund Congress set up for rainy days. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

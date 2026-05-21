@@ -10,9 +10,6 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/01/29/trump-sues-irs-ta
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The President is suing the IRS he runs for $10 billion. The damages, in the complaint, are reputational."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

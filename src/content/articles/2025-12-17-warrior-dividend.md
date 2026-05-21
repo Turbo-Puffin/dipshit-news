@@ -10,9 +10,6 @@ sourceUrl: "https://www.defenseone.com/policy/2025/12/trump-rebrands-congression
 sourcePublisher: "Defense One"
 readTime: "3 min read"
 blurb: "The 'warrior dividend' is the housing allowance Congress already allocated. The President named it. The check did not change."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

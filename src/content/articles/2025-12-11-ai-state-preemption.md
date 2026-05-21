@@ -10,9 +10,6 @@ sourceUrl: "https://www.sidley.com/en/insights/newsupdates/2025/12/unpacking-the
 sourcePublisher: "Sidley Austin"
 readTime: "3 min read"
 blurb: "The order opens a federal litigation front against state AI laws. The DOJ has a new task force for the purpose."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

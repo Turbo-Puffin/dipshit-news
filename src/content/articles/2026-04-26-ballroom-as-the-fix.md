@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2026/04/27/politics/white-house-ballroom-trump-s
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Inside twenty-four hours of the shooting: the DOJ asks the National Trust to drop its case. The argument is that there should be no off-site dinners."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

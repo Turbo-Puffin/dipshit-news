@@ -11,9 +11,6 @@ sourcePublisher: "The Hill"
 pull: "The penguin does not concern himself with the opinions of those who cannot comprehend."
 readTime: "3 min read"
 blurb: "AI image of the President with a penguin marching toward Greenland. Penguins are in the Southern Hemisphere."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

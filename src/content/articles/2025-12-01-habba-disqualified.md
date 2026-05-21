@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/12/01/politics/alina-habba-new-jersey-3rd-c
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "The Third Circuit said the President's former personal lawyer is unlawfully sitting in the U.S. Attorney's office in Newark. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 7

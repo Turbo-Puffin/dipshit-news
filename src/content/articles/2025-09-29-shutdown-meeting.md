@@ -10,9 +10,6 @@ sourceUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/trump-netan
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Eleventh-hour meeting. Hours of negotiating. The VP walks out and says the shutdown is likely."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

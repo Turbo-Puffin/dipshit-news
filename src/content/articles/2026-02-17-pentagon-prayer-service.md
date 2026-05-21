@@ -10,9 +10,6 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/02/18/doug-wilson-penta
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Wilson preached at the Pentagon. He has argued, in print, that wives must submit and women should not vote."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

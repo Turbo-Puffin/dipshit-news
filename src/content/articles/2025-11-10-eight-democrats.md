@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnbc.com/2025/11/09/government-shutdown-senate-democrats
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "Eight Democrats traded the ACA subsidies for a promise of a future vote. Forty-three days for a hand-shake."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

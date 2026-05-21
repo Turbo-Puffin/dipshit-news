@@ -10,9 +10,6 @@ sourceUrl: "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trum
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Three sanctions actions in a single week against three foreign critics. The legal basis in each case is contested."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

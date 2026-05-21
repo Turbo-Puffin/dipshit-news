@@ -10,9 +10,6 @@ sourceUrl: "https://www.pbs.org/newshour/politics/trump-administration-halts-all
 sourcePublisher: "PBS NewsHour"
 readTime: "3 min read"
 blurb: "One man, vetted three times, shot two soldiers. The fix is to stop everyone, from everywhere, for as long as we want."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 7

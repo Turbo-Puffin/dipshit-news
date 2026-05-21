@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/11/24/politics/james-comey-letitia-james-in
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Two showcase indictments dismissed. The prosecutor was past the statutory cap. The cases collapsed."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

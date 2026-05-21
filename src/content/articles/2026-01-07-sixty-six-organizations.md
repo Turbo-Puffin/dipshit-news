@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2026/01/07/climate/trump-withdrawal-climate-trea
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Sixty-six. With one memo. Including a climate body the US helped found and the Special Representative for Children in Armed Conflict."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

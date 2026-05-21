@@ -10,9 +10,6 @@ sourceUrl: "https://www.aljazeera.com/news/2026/1/5/trump-threatens-colombias-pe
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Asked about Colombia. The answer was three words. The country is two hundred miles south of Caracas. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

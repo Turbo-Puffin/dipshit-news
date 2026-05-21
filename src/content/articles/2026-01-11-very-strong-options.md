@@ -10,9 +10,6 @@ sourceUrl: "https://time.com/7345461/trump-military-intervention-iran-war-threat
 sourcePublisher: "TIME"
 readTime: "2 min read"
 blurb: "Off the cuff, on the airplane, on the way back from Florida. The phrase was 'very strong options.'"
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

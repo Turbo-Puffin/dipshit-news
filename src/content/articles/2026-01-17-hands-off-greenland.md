@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2026/01/17/europe/protesters-denmark-greenland-t
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Five thousand of Nuuk's fifty-six thousand residents marched. Twenty thousand more in Copenhagen."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

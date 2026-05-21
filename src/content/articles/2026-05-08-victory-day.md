@@ -10,9 +10,6 @@ sourceUrl: "https://www.newsweek.com/trump-saying-us-did-far-more-allies-win-wwi
 sourcePublisher: "Newsweek"
 readTime: "3 min read"
 blurb: "May 8 proclaimed as the US Victory in WW2. The actual American war ended September 2."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

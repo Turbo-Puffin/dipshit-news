@@ -10,9 +10,6 @@ sourceUrl: "https://fortune.com/2025/09/28/pentagon-generals-admirals-quantico-m
 sourcePublisher: "Fortune"
 readTime: "3 min read"
 blurb: "Eight hundred generals summoned to one room in Virginia. The agenda was not announced. The President will now attend. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

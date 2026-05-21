@@ -10,9 +10,6 @@ sourceUrl: "https://www.npr.org/2025/08/16/nx-s1-5504196/trump-putin-summit-docu
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Eight pages of summit materials. On a public printer. At a hotel. The White House says it was a lunch menu."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 4

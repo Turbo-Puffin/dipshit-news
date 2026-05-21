@@ -10,9 +10,6 @@ sourceUrl: "https://www.kptv.com/2026/01/25/hegseth-posts-how-graphic-avoiding-i
 sourcePublisher: "KPTV"
 readTime: "3 min read"
 blurb: "Defense Secretary's How To: Don't be illegal. Don't attack ICE. Obey the law. Posted the day after a citizen was killed."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

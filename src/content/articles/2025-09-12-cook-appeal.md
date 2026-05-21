@@ -10,9 +10,6 @@ sourceUrl: "https://www.cbsnews.com/news/trump-court-fire-federal-reserve-lisa-c
 sourcePublisher: "CBS News"
 readTime: "2 min read"
 blurb: "Fire the Fed governor. Court says no. Run to the appeals court. The Fed meets next week. Hon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

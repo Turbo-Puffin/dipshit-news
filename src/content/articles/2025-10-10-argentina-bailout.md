@@ -10,9 +10,6 @@ sourceUrl: "https://abcnews.com/Politics/trump-administrations-20b-bailout-argen
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "The shutdown is in day ten. The Treasury just wrote Buenos Aires a $20 billion line. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

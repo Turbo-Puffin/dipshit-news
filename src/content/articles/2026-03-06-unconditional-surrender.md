@@ -10,9 +10,6 @@ sourceUrl: "https://www.npr.org/2026/03/06/nx-s1-5739419/the-news-roundup-for-ma
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "On Friday, the Pentagon said the war was just beginning and the President posted, in capitals, that the only acceptable end was unconditional surrender."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

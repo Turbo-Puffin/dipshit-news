@@ -10,9 +10,6 @@ sourceUrl: "https://www.usnews.com/news/world/articles/2025-08-07/fbi-ousts-ex-a
 sourcePublisher: "U.S. News & World Report"
 readTime: "3 min read"
 blurb: "The man who would not snitch on his agents got fired. His farewell letter said he was given 'no answers.'"
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

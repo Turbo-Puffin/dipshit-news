@@ -10,9 +10,6 @@ sourceUrl: "https://www.usnews.com/news/politics/articles/2026-02-16/us-judge-te
 sourcePublisher: "U.S. News"
 readTime: "3 min read"
 blurb: "January: the exhibits at Washington's Philadelphia home come down. February: a judge orders them back up."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

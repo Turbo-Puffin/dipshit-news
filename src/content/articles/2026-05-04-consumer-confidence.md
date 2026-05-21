@@ -10,9 +10,6 @@ sourceUrl: "https://www.wral.com/news/state/fact-check-donald-trump-consumer-con
 sourcePublisher: "WRAL"
 readTime: "2 min read"
 blurb: "He said way up. The Conference Board said no. The U-Mich index said no. So did the third one."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 4

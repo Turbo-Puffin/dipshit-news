@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/09/06/politics/trump-chicago-war-meme-post"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Saturday morning Truth Social post. The President's face on the Apocalypse Now poster. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

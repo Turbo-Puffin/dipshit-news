@@ -10,9 +10,6 @@ sourceUrl: "https://www.washingtonpost.com/health/2025/12/16/trump-fentanyl-weap
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Fentanyl is now, by executive order, in the WMD category alongside nuclear weapons. Hon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/politics/live-news/trump-state-of-the-union-2026
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "DHS funding talks collapsed. The agency continues operating in shutdown mode."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

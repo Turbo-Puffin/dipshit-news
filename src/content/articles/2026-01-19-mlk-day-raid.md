@@ -10,9 +10,6 @@ sourceUrl: "https://www.mprnews.org/story/2026/01/19/ice-presence-affects-annual
 sourcePublisher: "MPR News"
 readTime: "3 min read"
 blurb: "On MLK Day. In Minneapolis. ICE goes through the door, points guns at a five-year-old, then says he's a citizen."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

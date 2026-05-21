@@ -10,9 +10,6 @@ sourceUrl: "https://www.newsweek.com/donald-trump-photographed-labor-day-amid-ba
 sourcePublisher: "Newsweek"
 readTime: "3 min read"
 blurb: "Hashtag #WhereIsTrump trended all weekend. The response was 128 posts in seven days. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

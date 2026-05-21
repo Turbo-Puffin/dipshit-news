@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2026/05/18/politics/trump-iran-resumed-attack-pl
 sourcePublisher: "CNN"
 readTime: "2 min read"
 pull: "we will NOT be doing the scheduled attack of Iran tomorrow."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 blurb: "Sunday night, the President warned on Truth Social that there would not be anything left of Iran. Monday afternoon, after three Gulf-state phone calls, the same Truth Social account announced the attack was off. CNN, the Washington Post, and CNBC carried both posts."
 featured: false
 rubric:

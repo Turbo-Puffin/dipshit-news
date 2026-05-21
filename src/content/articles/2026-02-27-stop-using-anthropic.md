@@ -10,9 +10,6 @@ sourceUrl: "https://www.cbsnews.com/news/trump-anthropic-ai-order-federal-agenci
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "The order: stop using Anthropic. The reason: the company asked the Pentagon not to use the AI for mass surveillance."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

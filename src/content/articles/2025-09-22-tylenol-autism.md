@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/09/22/health/trump-autism-announcement-caus
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Roosevelt Room. Tylenol is not good. The FDA is directed to put it on the label. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

@@ -10,9 +10,6 @@ sourceUrl: "https://www.npr.org/2026/02/13/nx-s1-5713307/trump-nfl-pardons"
 sourcePublisher: "NPR"
 readTime: "2 min read"
 blurb: "Five NFL players pardoned. Crimes: perjury, marijuana trafficking, cocaine conspiracy, counterfeiting."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19
