@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/Politics/trump-administrations-20b-bailout-argen
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "The shutdown is in day ten. The Treasury just wrote Buenos Aires a $20 billion line. Buddy."
+photo: ../../assets/articles/2025-10-10-argentina-bailout.svg
+photoAlt: "Flag of Argentina with the Sun of May."
+photoCaption: "Flag of Argentina, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

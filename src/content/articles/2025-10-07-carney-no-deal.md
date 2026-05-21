@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbc.ca/news/politics/trump-carney-meeting-white-house-1.
 sourcePublisher: "CBC News"
 readTime: "2 min read"
 blurb: "Carney flew in. They sat down. They stood up. There is no deal. The trade minister came out by himself. Buddy."
+photo: ../../assets/articles/2025-10-07-carney-no-deal.jpg
+photoAlt: "Canadian Prime Minister Mark Carney photographed at the White House."
+photoCaption: "Photo by Daniel Torok / White House, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

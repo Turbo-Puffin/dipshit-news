@@ -10,6 +10,9 @@ sourceUrl: "https://www.axios.com/2025/09/13/trump-sanctions-russia-nato-tariffs
 sourcePublisher: "Axios"
 readTime: "3 min read"
 blurb: "Open letter to NATO. Says NATO is not at 100 percent. Posts it on Truth Social on a Saturday morning. Buddy."
+photo: ../../assets/articles/2025-09-13-letter-to-nato.jpg
+photoAlt: "NATO Headquarters in Brussels"
+photoCaption: "Photo by Ad Meskens, via Wikimedia Commons. CC BY-SA 4.0."
 rubric:
   - label: "Factual basis"
     score: 12

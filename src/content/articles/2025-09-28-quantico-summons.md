@@ -10,6 +10,9 @@ sourceUrl: "https://fortune.com/2025/09/28/pentagon-generals-admirals-quantico-m
 sourcePublisher: "Fortune"
 readTime: "3 min read"
 blurb: "Eight hundred generals summoned to one room in Virginia. The agenda was not announced. The President will now attend. Buddy."
+photo: ../../assets/articles/2025-09-28-quantico-summons.jpg
+photoAlt: "Aerial view of the Pentagon, the headquarters of the U.S. Department of Defense."
+photoCaption: "Photo: U.S. Air Force, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

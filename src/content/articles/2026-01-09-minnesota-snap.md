@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/minnesota/news/award-payments-usda-suspended
 sourcePublisher: "CBS Minnesota"
 readTime: "3 min read"
 blurb: "$129 million in USDA funds frozen to Minnesota by letter on a Friday. Hon."
+photo: ../../assets/articles/2026-01-09-minnesota-snap.jpg
+photoAlt: "Official portrait of Agriculture Secretary Brooke Rollins"
+photoCaption: "Official portrait of Secretary Brooke Rollins, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

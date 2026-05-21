@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/1/8/us-senate-passes-measure-to-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Senate advances the war powers resolution. The President's response was a Truth Social post."
+photo: ../../assets/articles/2026-01-08-five-republicans.jpg
+photoAlt: "Historical view of the U.S. Senate chamber"
+photoCaption: "Photo: Brady-Handy Collection, Library of Congress, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

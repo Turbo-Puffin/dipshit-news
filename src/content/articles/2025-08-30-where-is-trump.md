@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/08/30/politics/where-is-donald-trump"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "After a week of rumors about a bruised hand, CNN found him at the golf course. Again."
+photo: ../../assets/articles/2025-08-30-where-is-trump.jpg
+photoAlt: "Trump National Golf Club, Bedminster"
+photoCaption: "Photo by Ekem, via Wikimedia Commons. CC BY-SA 4.0."
 rubric:
   - label: "Factual basis"
     score: 17

@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/US/former-fbi-director-james-comey-indicted-days
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "Truth Social on Saturday. Indictment on Thursday. The replacement prosecutor was the former personal lawyer. Buddy."
+photo: ../../assets/articles/2025-09-25-comey-indictment.jpg
+photoAlt: "Official FBI portrait of former director James Comey."
+photoCaption: "Official portrait of James Comey, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

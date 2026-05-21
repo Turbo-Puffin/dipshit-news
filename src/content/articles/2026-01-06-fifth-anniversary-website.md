@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/01/06/trump-white-house
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The official White House website says no officers died on January 6. The names of the officers are public record."
+photo: ../../assets/articles/2026-01-06-fifth-anniversary-website.jpg
+photoAlt: "Crowd outside the U.S. Capitol during the January 6, 2021 attack"
+photoCaption: "Photo by Tyler Merbler, via Wikimedia Commons. CC0 / Public domain dedication."
 rubric:
   - label: "Factual basis"
     score: 5

@@ -10,6 +10,9 @@ sourceUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-holds-a-cabin
 sourcePublisher: "PBS NewsHour"
 readTime: "3 min read"
 blurb: "Three hours, sixteen minutes. Forty-five minute opener. A reduction of 1,500 percent. The math does not exist."
+photo: ../../assets/articles/2025-08-26-cabinet-marathon.jpg
+photoAlt: "President Trump at the Resolute Desk in the Oval Office"
+photoCaption: "Photo: Official White House Photo, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 6

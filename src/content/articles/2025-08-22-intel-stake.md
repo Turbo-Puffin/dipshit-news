@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/08/22/tech/trump-intel-10-percent-stake"
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "He demanded the CEO's resignation in early August. By August 22 the U.S. owned 9.9% of the company. Buddy."
+photo: ../../assets/articles/2025-08-22-intel-stake.jpg
+photoAlt: "Intel headquarters in Santa Clara"
+photoCaption: "Photo by BrokenSphere, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 18

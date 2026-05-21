@@ -10,6 +10,9 @@ sourceUrl: "https://time.com/7319365/charlie-kirk-memorial-stephen-miller-trump-
 sourcePublisher: "TIME"
 readTime: "3 min read"
 blurb: "Stadium memorial. Hymns, then takedowns. The hymns mostly came first. Hon."
+photo: ../../assets/articles/2025-09-21-stadium-memorial.jpg
+photoAlt: "President Trump at the Charlie Kirk memorial service at State Farm Stadium, Arizona"
+photoCaption: "Photo by Daniel Torok, Official White House Photo, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 17

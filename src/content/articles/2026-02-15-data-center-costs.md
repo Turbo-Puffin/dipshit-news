@@ -10,6 +10,9 @@ sourceUrl: "https://www.foxnews.com/politics/trumps-12b-rare-earth-plan-targets-
 sourcePublisher: "Fox News"
 readTime: "2 min read"
 blurb: "The trade adviser told a Sunday show data center builders should pay their own way on power. He is not the rate-setter."
+photo: ../../assets/articles/2026-02-15-data-center-costs.jpg
+photoAlt: "Aerial view of the NSA's Utah Data Center"
+photoCaption: "Photo by Parker Higgins, EFF, via Wikimedia Commons. CC0 / Public domain dedication."
 rubric:
   - label: "Factual basis"
     score: 13

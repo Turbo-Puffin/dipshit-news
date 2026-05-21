@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/10/27/nx-s1-5587255/snap-benefit-shutdown-c
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "USDA says no SNAP for November. The contingency fund Congress set up exactly for this is untouched."
+photo: ../../assets/articles/2025-10-26-snap-no-november.svg
+photoAlt: "Logo of the U.S. Department of Agriculture, which administers SNAP."
+photoCaption: "Logo: USDA, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

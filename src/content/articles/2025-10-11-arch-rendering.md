@@ -10,6 +10,9 @@ sourceUrl: "https://www.britannica.com/topic/Washington-DC-Triumphal-Arch"
 sourcePublisher: "Britannica"
 readTime: "3 min read"
 blurb: "A 250-foot arch, gilded at the top, dwarfing the Lincoln Memorial. The country is in day eleven of a shutdown."
+photo: ../../assets/articles/2025-10-11-arch-rendering.jpg
+photoAlt: "The Lincoln Memorial in Washington, D.C., the landmark the proposed arch would dwarf."
+photoCaption: "Photo: Harris & Ewing / Library of Congress, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

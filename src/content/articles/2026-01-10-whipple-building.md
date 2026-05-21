@@ -10,6 +10,9 @@ sourceUrl: "https://www.startribune.com/rep-omar-craig-morrison-ice-detention-ce
 sourcePublisher: "Star Tribune"
 readTime: "3 min read"
 blurb: "Three House members. One ICE facility. The agents at the door had weapons drawn."
+photo: ../../assets/articles/2026-01-10-whipple-building.png
+photoAlt: "ICE agents at a federal enforcement operation"
+photoCaption: "Photo: U.S. Immigration and Customs Enforcement, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

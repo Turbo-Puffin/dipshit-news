@@ -10,6 +10,9 @@ sourceUrl: "https://www.deseret.com/u-s-world/2026/05/05/president-donald-trump-
 sourcePublisher: "Deseret News"
 readTime: "3 min read"
 blurb: "Sit-ups, pull-ups, push-ups, the mile run, and the gymnasium dread of an entire generation, restored."
+photo: ../../assets/articles/2026-05-05-presidential-fitness-test.jpg
+photoAlt: "Official 2025 portrait of HHS Secretary Robert F. Kennedy Jr."
+photoCaption: "Official portrait of Robert F. Kennedy Jr., via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

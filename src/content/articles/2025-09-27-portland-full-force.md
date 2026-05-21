@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/trump-administration/trump-portland
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Truth Social post says Portland is 'war ravaged.' The mayor says the right number of troops is zero. Hon."
+photo: ../../assets/articles/2025-09-27-portland-full-force.jpg
+photoAlt: "Official portrait of Secretary of Defense Pete Hegseth."
+photoCaption: "Official portrait of Pete Hegseth, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 7

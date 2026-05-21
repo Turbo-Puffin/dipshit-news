@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/28/nx-s1-5763702/no-kings-saturday-prote
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Three thousand events nationwide. Crowds in every major American city and a few abroad. The President called them paid actors."
+photo: ../../assets/articles/2026-03-28-no-kings-protests.jpg
+photoAlt: "A No Kings protest in Washington, D.C. on March 28, 2026"
+photoCaption: "Photo: No Kings protest, Washington, D.C., via Wikimedia Commons. CC BY-SA."
 featured: false
 rubric:
   - label: "Factual basis"

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2026/01/02/trump-says-us-will-intervene-if-iran
 sourcePublisher: "CNBC"
 readTime: "2 min read"
 blurb: "The President said the US would 'come to their rescue.' He did not say with what."
+photo: ../../assets/articles/2026-01-02-locked-and-loaded.svg
+photoAlt: "Flag of Iran"
+photoCaption: "Photo: Flag of Iran, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

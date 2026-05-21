@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/02/22/politics/mar-a-lago-man-shot-armed"
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "An armed man was shot dead at Mar-a-Lago at 1:30 a.m. By Sunday afternoon the White House was posting bird memes."
+photo: ../../assets/articles/2026-02-22-eagle-trampling-goose.jpg
+photoAlt: "A bald eagle, the national bird of the United States"
+photoCaption: "Photo: bald eagle, via Wikimedia Commons. CC BY-SA."
 rubric:
   - label: "Factual basis"
     score: 18

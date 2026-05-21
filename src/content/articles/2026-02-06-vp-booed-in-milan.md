@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnewyork.com/olympics/2026-milan-cortina/jd-vance-booe
 sourcePublisher: "NBC New York"
 readTime: "3 min read"
 blurb: "VP and Second Lady on the jumbotron. Sixty-five thousand people in Milan got their answer in early."
+photo: ../../assets/articles/2026-02-06-vp-booed-in-milan.jpg
+photoAlt: "Official portrait of Vice President JD Vance"
+photoCaption: "Official portrait of Vice President JD Vance, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

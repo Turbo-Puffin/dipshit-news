@@ -10,6 +10,9 @@ sourceUrl: "https://www.chathamhouse.org/2025/11/trump-pressures-ukraine-accept-
 sourcePublisher: "Chatham House"
 readTime: "3 min read"
 blurb: "Witkoff and Dmitriev wrote 28 points. Ukraine, the country in question, was handed the document already finished."
+photo: ../../assets/articles/2025-11-17-twenty-eight-points.jpg
+photoAlt: "Portrait of Kirill Dmitriev, Russian envoy who co-drafted the 28-point Ukraine peace plan."
+photoCaption: "Official portrait of Kirill Dmitriev, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

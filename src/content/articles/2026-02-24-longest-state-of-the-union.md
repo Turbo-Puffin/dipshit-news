@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/02/24/nx-s1-5725496/trump-state-union-longe
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "One hour, forty-seven minutes, forty seconds. Twenty minutes past the previous record. The Senator giving the rebuttal had to wait."
+photo: ../../assets/articles/2026-02-24-longest-state-of-the-union.jpg
+photoAlt: "The United States Capitol building"
+photoCaption: "Photo: United States Capitol, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 22

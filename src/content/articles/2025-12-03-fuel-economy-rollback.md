@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/12/03/politics/fuel-economy-standards-rollb
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Fuel economy goes from 50.4 mpg by 2031 down to 34.5 mpg. Crossovers are cars again. Hon."
+photo: ../../assets/articles/2025-12-03-fuel-economy-rollback.jpg
+photoAlt: "President Donald J. Trump signing executive orders at the Resolute Desk in the Oval Office."
+photoCaption: "Photo: The White House, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

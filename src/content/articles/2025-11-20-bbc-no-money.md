@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/11/14/nx-s1-5608004/bbc-apology-trump-speec
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "BBC apologized formally. It will not pay. The lawsuit threat continued from the residence."
+photo: ../../assets/articles/2025-11-20-bbc-no-money.jpg
+photoAlt: "Exterior of BBC Broadcasting House in London, headquarters of the BBC."
+photoCaption: "Photo: BBC Broadcasting House, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

@@ -10,6 +10,9 @@ sourceUrl: "https://www.wichitaliberty.org/politics/trump-small-business-summit-
 sourcePublisher: "Wichita Liberty"
 readTime: "2 min read"
 blurb: "He said he did it for one point nine. The federal estimate said three hundred and fifty. Somebody is wrong by a factor of 184."
+photo: ../../assets/articles/2026-05-04-reflecting-pool.jpg
+photoAlt: "The Lincoln Memorial Reflecting Pool on the National Mall in Washington, D.C."
+photoCaption: "Photo: Lincoln Memorial Reflecting Pool, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

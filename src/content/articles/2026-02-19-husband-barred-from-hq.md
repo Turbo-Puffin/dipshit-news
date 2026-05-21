@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2026/02/19/labor-secretary-chavez-deremer-husba
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "Two Labor Department staffers reported the Secretary's husband for inappropriate touching. He has been barred from the building."
+photo: ../../assets/articles/2026-02-19-husband-barred-from-hq.jpg
+photoAlt: "Frances Perkins Building, headquarters of the U.S. Department of Labor in Washington, D.C."
+photoCaption: "Photo: Frances Perkins Building, U.S. Department of Labor headquarters, via Wikimedia Commons. CC BY-SA."
 rubric:
   - label: "Factual basis"
     score: 19

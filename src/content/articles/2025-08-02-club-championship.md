@@ -10,6 +10,9 @@ sourceUrl: "https://www.golfmagic.com/news/golf-fans-react-donald-trump-goes-low
 sourcePublisher: "GolfMagic"
 readTime: "2 min read"
 blurb: "The owner of the course beat the membership of the course. The White House press shop confirmed it."
+photo: ../../assets/articles/2025-08-02-club-championship.jpg
+photoAlt: "President Trump on a golf course"
+photoCaption: "Photo: Shealah Craighead, Official White House Photo, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

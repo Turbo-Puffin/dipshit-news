@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/10/20/nx-s1-5579661/trump-tariffs-aid-colom
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "He called the elected president of Colombia 'an illegal drug leader.' On a Sunday. In all caps. Buddy."
+photo: ../../assets/articles/2025-10-19-petro-drug-leader.png
+photoAlt: "Colombian President Gustavo Petro wearing the presidential sash."
+photoCaption: "Photo: RTVC, via Wikimedia Commons. Public domain (USAID)."
 rubric:
   - label: "Factual basis"
     score: 7

@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/04/13/trump-jesus-relig
 sourcePublisher: "The Washington Post"
 readTime: "3 min read"
 blurb: "An AI-generated image of the President in a white robe with a hand on a man's head. Even his own commissioner said no."
+photo: ../../assets/articles/2026-04-13-jesus-image-pope.png
+photoAlt: "Official portrait of Pope Leo XIV."
+photoCaption: "Official portrait of Pope Leo XIV, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

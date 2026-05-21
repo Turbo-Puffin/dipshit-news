@@ -10,6 +10,9 @@ sourceUrl: "https://www.scotusblog.com/2026/02/supreme-court-strikes-down-tariff
 sourcePublisher: "SCOTUSblog"
 readTime: "3 min read"
 blurb: "Learning Resources, Inc. v. Trump. 6-3, Roberts. The IEEPA tariffs are vacated. Refunds are an open question."
+photo: ../../assets/articles/2026-02-20-supreme-court-tariff-ruling.jpg
+photoAlt: "The United States Supreme Court Building, west facade"
+photoCaption: "Photo: United States Supreme Court Building, via Wikimedia Commons. CC BY-SA."
 rubric:
   - label: "Factual basis"
     score: 21

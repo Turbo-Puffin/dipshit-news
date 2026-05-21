@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/trump-court-fire-federal-reserve-lisa-c
 sourcePublisher: "CBS News"
 readTime: "2 min read"
 blurb: "Fire the Fed governor. Court says no. Run to the appeals court. The Fed meets next week. Hon."
+photo: ../../assets/articles/2025-09-12-cook-appeal.jpg
+photoAlt: "Official portrait of Federal Reserve Governor Lisa D. Cook"
+photoCaption: "Official portrait of Lisa D. Cook, via Wikimedia Commons. Public domain (Federal Reserve)."
 rubric:
   - label: "Factual basis"
     score: 16

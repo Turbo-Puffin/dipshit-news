@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-st
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "The 48-hour ultimatum became a 72-hour ultimatum became a 5-day postponement. Iran says no talks have occurred."
+photo: ../../assets/articles/2026-03-23-five-day-postponement.jpg
+photoAlt: "The Isfahan oil refinery and thermal power station in Iran"
+photoCaption: "Photo: Isfahan Refinery and Thermal Power Station, Iran, via Wikimedia Commons. CC BY-SA."
 featured: false
 rubric:
   - label: "Factual basis"

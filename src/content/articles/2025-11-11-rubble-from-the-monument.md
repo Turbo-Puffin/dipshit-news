@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/new-photos-white-house-east-wing-demoli
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "The Monument reopened after the shutdown. The first thing visitors saw was the absence of the East Wing."
+photo: ../../assets/articles/2025-11-11-rubble-from-the-monument.jpg
+photoAlt: "Demolition of the White House East Wing in October 2025, with construction equipment and exposed framing."
+photoCaption: "Photo: Sizzlipedia, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

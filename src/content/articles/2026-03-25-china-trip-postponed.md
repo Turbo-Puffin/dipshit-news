@@ -10,6 +10,9 @@ sourceUrl: "https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_Ch
 sourcePublisher: "Wikipedia"
 readTime: "3 min read"
 blurb: "The state visit to China gets pushed five weeks. The administration cited the war as the reason. The administration also said the war is over."
+photo: ../../assets/articles/2026-03-25-china-trip-postponed.jpg
+photoAlt: "Official portrait of Vice President JD Vance"
+photoCaption: "Photo by Emily J. Higgins, White House, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

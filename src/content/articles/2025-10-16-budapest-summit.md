@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/10/16/trump-putin-russia-ukraine.html"
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "Two hours on the phone. Summit announced. Zelenskyy is at the airport. Buddy."
+photo: ../../assets/articles/2025-10-16-budapest-summit.jpg
+photoAlt: "Official portrait of Russian President Vladimir Putin."
+photoCaption: "Official portrait of Vladimir Putin, via Wikimedia Commons. CC BY 3.0 (Kremlin.ru)."
 rubric:
   - label: "Factual basis"
     score: 12

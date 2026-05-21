@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/white-house/trump-pressures-ukraine
 sourcePublisher: "NBC News"
 readTime: "2 min read"
 blurb: "Russia seized Crimea by force in 2014. The President's verb of choice on Sunday night was 'given.'"
+photo: ../../assets/articles/2025-08-17-obama-given-crimea.svg
+photoAlt: "Truth Social logo"
+photoCaption: "Truth Social logo, via Wikimedia Commons. Public domain (below threshold of originality)."
 rubric:
   - label: "Factual basis"
     score: 5

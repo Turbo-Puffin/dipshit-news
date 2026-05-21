@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/Politics/trump-orders-indycar-race-streets-dc-pa
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "Executive order: an IndyCar race around the Lincoln Memorial. Roger Penske at the Oval Office signing."
+photo: ../../assets/articles/2026-01-30-grand-prix.jpg
+photoAlt: "The Lincoln Memorial on the National Mall"
+photoCaption: "Photo by AgnosticPreachersKid, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 17

@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/04/02/g-s1-115077/trump-bondi-attorney-gene
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Three personnel and policy moves before lunch. Each individually big. The pharma tariff, on inspection, exempts most of the pharmaceuticals."
+photo: ../../assets/articles/2026-04-02-bondi-fired.jpg
+photoAlt: "Official portrait of Attorney General Pam Bondi"
+photoCaption: "Official portrait of Pam Bondi, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

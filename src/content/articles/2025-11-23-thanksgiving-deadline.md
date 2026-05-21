@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/politics/live-news/trump-ukraine-news-11-22-25"
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Four days to accept a 28-point plan written with the country invading you. The deadline is a holiday."
+photo: ../../assets/articles/2025-11-23-thanksgiving-deadline.jpg
+photoAlt: "Special Envoy Steve Witkoff at his White House swearing-in ceremony, May 6, 2025."
+photoCaption: "Photo: The White House, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

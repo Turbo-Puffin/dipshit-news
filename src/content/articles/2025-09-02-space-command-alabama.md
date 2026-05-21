@@ -10,6 +10,9 @@ sourceUrl: "https://abc7ny.com/post/president-trump-make-oval-office-announcemen
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "The basing study picked Colorado. The President picked Alabama. The basing study still picked Colorado."
+photo: ../../assets/articles/2025-09-02-space-command-alabama.jpg
+photoAlt: "Peterson Space Force Base, Colorado, home of U.S. Space Command"
+photoCaption: "Photo: U.S. Space Force, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 14

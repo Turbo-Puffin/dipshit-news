@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Five weeks into the DHS shutdown, the agency that arrests undocumented people is now checking your boarding pass."
+photo: ../../assets/articles/2026-03-22-ice-at-the-airport.jpg
+photoAlt: "A TSA security checkpoint at a U.S. airport"
+photoCaption: "Photo: Transportation Security Administration, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/09/15/tech/trump-tiktok-china-deal"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Bessent announces a TikTok framework from Madrid. China has not. The deadline is Friday. Hon."
+photo: ../../assets/articles/2025-09-15-tiktok-framework.svg
+photoAlt: "TikTok logo"
+photoCaption: "TikTok logo, via Wikimedia Commons. Public domain (below threshold of originality)."
 rubric:
   - label: "Factual basis"
     score: 13

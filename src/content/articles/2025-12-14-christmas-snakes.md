@@ -10,6 +10,9 @@ sourceUrl: "https://newrepublic.com/post/204417/donald-trump-christmas-speech-sn
 sourcePublisher: "The New Republic"
 readTime: "3 min read"
 blurb: "He opened with the three attacks. He closed with the snakes. The transit between them took three minutes."
+photo: ../../assets/articles/2025-12-14-christmas-snakes.jpg
+photoAlt: "Christmas tree at the White House in Washington, D.C., where the reception was held."
+photoCaption: "Photo: Carol M. Highsmith, Library of Congress, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

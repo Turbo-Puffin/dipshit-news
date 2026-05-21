@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/entertainment/2025/12/18/kennedy-cent
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The Kennedy Center is, as of Thursday, the Trump-Kennedy Center. The man it was named for died in 1963. Hon."
+photo: ../../assets/articles/2025-12-18-kennedy-center-rename.jpg
+photoAlt: "Exterior of the John F. Kennedy Center for the Performing Arts in Washington, D.C."
+photoCaption: "Photo: Carol M. Highsmith, Library of Congress, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

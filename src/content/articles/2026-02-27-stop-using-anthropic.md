@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/trump-anthropic-ai-order-federal-agenci
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "The order: stop using Anthropic. The reason: the company asked the Pentagon not to use the AI for mass surveillance."
+photo: ../../assets/articles/2026-02-27-stop-using-anthropic.svg
+photoAlt: "The Anthropic company logo"
+photoCaption: "Anthropic logo, via Wikimedia Commons. Public domain (trademark of Anthropic)."
 rubric:
   - label: "Factual basis"
     score: 19

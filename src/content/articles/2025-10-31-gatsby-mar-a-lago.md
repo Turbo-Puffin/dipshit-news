@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/Politics/trump-hosted-great-gatsby-halloween-par
 sourcePublisher: "ABC News"
 readTime: "4 min read"
 blurb: "Halloween at Mar-a-Lago. Theme: 'A little party never killed nobody.' SNAP benefits lapsed at midnight. Buddy."
+photo: ../../assets/articles/2025-10-31-gatsby-mar-a-lago.jpg
+photoAlt: "Mar-a-Lago estate in Palm Beach, Florida."
+photoCaption: "Photo: Florida Memory / State Library and Archives of Florida, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

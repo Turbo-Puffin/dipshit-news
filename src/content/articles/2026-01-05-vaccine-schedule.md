@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/01/05/health/childhood-vaccine-schedule-ove
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Eighteen diseases on the schedule. Now eleven. The signature was from an acting director."
+photo: ../../assets/articles/2026-01-05-vaccine-schedule.jpg
+photoAlt: "Hands handling a vaccine vial and syringe"
+photoCaption: "Photo: U.S. Census Bureau, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

@@ -10,6 +10,9 @@ sourceUrl: "https://www.opb.org/article/2026/05/09/trump-says-russia-and-ukraine
 sourcePublisher: "OPB / NPR"
 readTime: "3 min read"
 blurb: "Three days of quiet, a prisoner swap, and a Russian holiday parade in the middle. The President called it the beginning of the end."
+photo: ../../assets/articles/2026-05-09-russia-ukraine-three-day-ceasefire.jpg
+photoAlt: "2026 Moscow Victory Day Parade on Red Square."
+photoCaption: "Photo: 2026 Moscow Victory Day Parade, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

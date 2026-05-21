@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/12/30/us/5-things-to-know-for-dec-30-cia-dr
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "A CIA drone strike on a port inside Venezuela. The first kinetic strike inside the country. No war-powers notification. Hon."
+photo: ../../assets/articles/2025-12-30-cia-port-strike.jpg
+photoAlt: "Sign at the entrance of the George Bush Center for Intelligence, headquarters of the CIA."
+photoCaption: "Photo: Central Intelligence Agency, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13
