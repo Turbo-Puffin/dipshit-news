@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/09/nx-s1-5742591/trump-press-conference-
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "First wartime press conference. Held at his own resort. Two hours of quotes that contradict each other on tape."
+photo: ../../assets/articles/2026-03-09-press-conference-doral.jpg
+photoAlt: "The clubhouse at Trump National Doral resort in Miami"
+photoCaption: "Photo: Trump National Doral clubhouse, via Wikimedia Commons. CC BY-SA."
 featured: false
 rubric:
   - label: "Factual basis"

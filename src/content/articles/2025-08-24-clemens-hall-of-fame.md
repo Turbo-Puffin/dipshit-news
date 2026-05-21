@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/08/25/sport/golf-ryder-cup-trump-intl"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Sunday post, all caps. Roger Clemens. NOW. The Baseball Hall of Fame is a private museum in upstate New York."
+photo: ../../assets/articles/2025-08-24-clemens-hall-of-fame.jpg
+photoAlt: "President George H.W. Bush meets Roger Clemens in the Oval Office, 1989"
+photoCaption: "Photo: George H.W. Bush Presidential Library, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 14

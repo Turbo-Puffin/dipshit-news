@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2025/08/11/trump-national-gu
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Federal takeover of DC police, declared on the basis of a crime emergency the actual data does not support."
+photo: ../../assets/articles/2025-08-11-liberation-day-dc.jpg
+photoAlt: "U.S. Capitol building exterior"
+photoCaption: "Photo: Architect of the Capitol, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 5

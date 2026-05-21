@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/04/04/trump-ballroom-ap
 sourcePublisher: "The Washington Post"
 readTime: "3 min read"
 blurb: "On a war Saturday, the urgent legal filing was the East Wing ballroom appeal. The argument: there is a bunker."
+photo: ../../assets/articles/2026-04-04-the-quiet-saturday.jpg
+photoAlt: "Exterior of the White House."
+photoCaption: "Photo: White House East Wing site, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

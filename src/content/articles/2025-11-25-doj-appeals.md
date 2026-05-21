@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/justice-department/trump-admin-appe
 sourcePublisher: "NBC News"
 readTime: "2 min read"
 blurb: "DOJ appealed. The President called the judge a disgrace. The statute is the same statute either way."
+photo: ../../assets/articles/2025-11-25-doj-appeals.jpg
+photoAlt: "Exterior of the Robert F. Kennedy Department of Justice Building in Washington, D.C."
+photoCaption: "Photo: Robert F. Kennedy DOJ Building, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

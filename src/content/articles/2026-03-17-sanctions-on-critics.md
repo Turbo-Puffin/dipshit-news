@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trum
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Three sanctions actions in a single week against three foreign critics. The legal basis in each case is contested."
+photo: ../../assets/articles/2026-03-17-sanctions-on-critics.jpg
+photoAlt: "The U.S. Department of the Treasury headquarters in Washington, D.C."
+photoCaption: "Photo: United States Treasury Building, via Wikimedia Commons. CC BY-SA."
 featured: false
 rubric:
   - label: "Factual basis"

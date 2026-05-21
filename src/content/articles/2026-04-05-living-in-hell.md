@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates"
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "An airman is recovered from behind enemy lines. The President's post afterwards is a profanity-strewn deadline. The two events are written, online, in the same paragraph."
+photo: ../../assets/articles/2026-04-05-living-in-hell.jpg
+photoAlt: "U.S. Air Force airman prepares an F-15E Strike Eagle to taxi the runway."
+photoCaption: "Photo by Airman 1st Class Alexandria Byrd, U.S. Air Force, via DVIDS. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

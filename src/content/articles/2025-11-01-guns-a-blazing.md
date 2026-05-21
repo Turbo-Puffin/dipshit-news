@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/world/2025/11/01/nigeria-christian-ge
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Saturday post, Saturday war plan. The country in question was learning about it the same time the Pentagon was."
+photo: ../../assets/articles/2025-11-01-guns-a-blazing.svg
+photoAlt: "Flag of Nigeria, the country named in the Pentagon order."
+photoCaption: "Flag of Nigeria, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

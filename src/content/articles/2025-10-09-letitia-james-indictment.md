@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictmen
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "The career prosecutor said no case. He got pushed out. The insurance lawyer who replaced him secured the indictment. Hon."
+photo: ../../assets/articles/2025-10-09-letitia-james-indictment.png
+photoAlt: "New York Attorney General Letitia James in a 2020 television interview."
+photoCaption: "Photo: NLN, via Wikimedia Commons. CC license."
 rubric:
   - label: "Factual basis"
     score: 13

@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/01/29/trump-sues-irs-ta
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The President is suing the IRS he runs for $10 billion. The damages, in the complaint, are reputational."
+photo: ../../assets/articles/2026-01-29-ten-billion.jpg
+photoAlt: "The Internal Revenue Service headquarters in Washington, D.C."
+photoCaption: "Photo by Joshua Doubek, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 12

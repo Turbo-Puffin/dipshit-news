@@ -10,6 +10,9 @@ sourceUrl: "https://thehill.com/policy/technology/5467734-trump-selects-airbnb-c
 sourcePublisher: "The Hill"
 readTime: "2 min read"
 blurb: "We have a Chief Design Officer now. He helped invent staying in a stranger's house. Hon."
+photo: ../../assets/articles/2025-08-21-chief-design-officer.jpg
+photoAlt: "Joe Gebbia, Airbnb co-founder"
+photoCaption: "Photo by Drew Altizer (Financial Times), via Wikimedia Commons. CC BY 2.0."
 rubric:
   - label: "Factual basis"
     score: 16

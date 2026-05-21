@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/12/25/g-s1-103704/nigeria-isis-islamic-stat
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "He delayed the strike a day. So it would land on Christmas. He called it a Christmas present. Buddy."
+photo: ../../assets/articles/2025-12-25-christmas-present.jpg
+photoAlt: "A US Navy Arleigh Burke-class destroyer launching a Tomahawk cruise missile, the weapon used in the Nigeria strike."
+photoCaption: "Photo: US Navy, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

@@ -10,6 +10,9 @@ sourceUrl: "https://minnesotareformer.com/2025/10/24/hundreds-protests-dhs-secre
 sourcePublisher: "Minnesota Reformer"
 readTime: "2 min read"
 blurb: "The press conference was in a windowless basement room. The protests outside were the size of a small parade. Hon."
+photo: ../../assets/articles/2025-10-24-noem-fort-snelling.jpg
+photoAlt: "Official portrait of Homeland Security Secretary Kristi Noem."
+photoCaption: "Official portrait of DHS Secretary Kristi Noem, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

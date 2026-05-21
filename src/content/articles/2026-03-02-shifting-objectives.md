@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/03/03/politics/trump-iran-war-explanations-
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "The President's messaging on the war has been marked by exaggerated threats and shifting, contradictory objectives."
+photo: ../../assets/articles/2026-03-02-shifting-objectives.jpg
+photoAlt: "A U.S. Air Force B-2 Spirit stealth bomber in flight"
+photoCaption: "Photo: U.S. Air Force, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

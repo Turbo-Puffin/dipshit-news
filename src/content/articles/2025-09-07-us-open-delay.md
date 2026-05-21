@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/news/us-news/trump-us-open-men-singles-final
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Match delayed thirty minutes. Stadium ten percent full when he waved. Broadcasters told to mute the boos. Buddy."
+photo: ../../assets/articles/2025-09-07-us-open-delay.jpg
+photoAlt: "Arthur Ashe Stadium, host of the US Open men's final"
+photoCaption: "Photo by Alexisrael, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 16

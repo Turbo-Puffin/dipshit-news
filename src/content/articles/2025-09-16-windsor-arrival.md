@@ -10,6 +10,9 @@ sourceUrl: "https://www.pbs.org/newshour/politics/king-charles-iii-greets-trump-
 sourcePublisher: "PBS NewsHour"
 readTime: "3 min read"
 blurb: "Carriage rides. State banquet. Toast goes off-script: 'maybe the last time, I hope it is, actually.' Buddy."
+photo: ../../assets/articles/2025-09-16-windsor-arrival.jpg
+photoAlt: "Windsor Castle at sunset"
+photoCaption: "Photo by David Iliff, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 16

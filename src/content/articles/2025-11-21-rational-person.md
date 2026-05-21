@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/11/21/politics/trump-mamdani-oval-office-me
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "He called him a communist on Tuesday. He called him rational on Friday. The mayor-elect did not change."
+photo: ../../assets/articles/2025-11-21-rational-person.jpg
+photoAlt: "Portrait of Zohran Mamdani, New York City mayor-elect."
+photoCaption: "Official portrait of Zohran Mamdani, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/08/12/nx-s1-5500550/smithsonian-trump-revie
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "The federal government is going to read the wall labels at the Air and Space Museum. With deadlines."
+photo: ../../assets/articles/2025-08-12-smithsonian-review.jpg
+photoAlt: "Entrance hall of the Smithsonian National Air and Space Museum"
+photoCaption: "Photo by Jawed Karim, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 14

@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/1/5/trump-threatens-colombias-pe
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Asked about Colombia. The answer was three words. The country is two hundred miles south of Caracas. Buddy."
+photo: ../../assets/articles/2026-01-04-sounds-good-to-me.svg
+photoAlt: "Flag of Colombia"
+photoCaption: "Photo: Flag of Colombia, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

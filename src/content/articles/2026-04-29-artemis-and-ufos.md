@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trum
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Wiseman, Glover, Koch, Hansen. They flew around the Moon. The Oval Q&A ran on Iran, the Comey indictment, and UFOs."
+photo: ../../assets/articles/2026-04-29-artemis-and-ufos.jpg
+photoAlt: "Artemis II crew portrait: Jeremy Hansen, Victor Glover, Reid Wiseman, and Christina Hammock Koch."
+photoCaption: "Photo by Josh Valcarcel, NASA, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

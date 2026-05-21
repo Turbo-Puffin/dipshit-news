@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/01/17/europe/protesters-denmark-greenland-t
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Five thousand of Nuuk's fifty-six thousand residents marched. Twenty thousand more in Copenhagen."
+photo: ../../assets/articles/2026-01-17-hands-off-greenland.jpg
+photoAlt: "Satellite view of Nuuk, Greenland"
+photoCaption: "Photo: Axelspace Corporation, via Wikimedia Commons. CC BY-SA 4.0."
 rubric:
   - label: "Factual basis"
     score: 17

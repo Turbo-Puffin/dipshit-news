@@ -10,6 +10,9 @@ sourceUrl: "https://ca.news.yahoo.com/trump-goes-meat-packing-industry-211926687
 sourcePublisher: "Yahoo News"
 readTime: "3 min read"
 blurb: "He tried to import Argentine beef. It didn't lower prices. So he asked DOJ to investigate the packers."
+photo: ../../assets/articles/2025-11-14-affordability-meatpackers.jpg
+photoAlt: "A herd of beef cattle on US rangeland, representing the meatpacking industry under federal scrutiny."
+photoCaption: "Photo: National Archives, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

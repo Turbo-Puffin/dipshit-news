@@ -10,6 +10,9 @@ sourceUrl: "https://thespun.com/golf/photo-of-president-trump-playing-golf-with-
 sourcePublisher: "The Spun"
 readTime: "3 min read"
 blurb: "President posts a fist-bump with Gruden. Internet notes the shirt is from a week prior. Buddy."
+photo: ../../assets/articles/2025-08-31-gruden-fist-bump.jpg
+photoAlt: "Jon Gruden at Oakland Raiders training, 2018"
+photoCaption: "Photo by Louis Briscese, U.S. Air Force, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 11

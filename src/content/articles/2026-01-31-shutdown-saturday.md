@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/01/31/nx-s1-5694716/partial-government-shut
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Saturday morning. Government partially shut. Three hundred ICE Out protests across the country. Buddy."
+photo: ../../assets/articles/2026-01-31-shutdown-saturday.jpg
+photoAlt: "The United States Capitol, west front"
+photoCaption: "Photo: Architect of the Capitol, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

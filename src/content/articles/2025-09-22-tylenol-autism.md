@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/09/22/health/trump-autism-announcement-caus
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Roosevelt Room. Tylenol is not good. The FDA is directed to put it on the label. Buddy."
+photo: ../../assets/articles/2025-09-22-tylenol-autism.jpg
+photoAlt: "Tylenol rapid release acetaminophen capsules in close-up."
+photoCaption: "Photo by Ragesoss, via Wikimedia Commons. CC BY-SA 2.0."
 rubric:
   - label: "Factual basis"
     score: 5

@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/US/putin-zelenskyy-respond-trumps-peace-plan/sto
 sourcePublisher: "ABC News"
 readTime: "2 min read"
 blurb: "The Thanksgiving deadline has come and gone. Ukraine did not sign. The President is at his golf course."
+photo: ../../assets/articles/2025-11-27-thanksgiving-deadline-passes.jpg
+photoAlt: "Donald Trump playing golf at one of his courses."
+photoCaption: "Photo: Donald Trump golfing, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

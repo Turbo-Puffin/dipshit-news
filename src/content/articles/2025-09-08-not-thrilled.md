@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Israel bombed Doha to hit Hamas negotiators discussing his own ceasefire. He found out after. He was 'not thrilled.'"
+photo: ../../assets/articles/2025-09-08-not-thrilled.jpg
+photoAlt: "Doha, Qatar skyline at night"
+photoCaption: "Photo by Wiyetd, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 17

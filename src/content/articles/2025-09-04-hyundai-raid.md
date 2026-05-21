@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/9/5/south-korea-objects-as-us-im
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Helicopters and drones over a battery plant being built by an ally. Three hundred South Koreans in shackles. Buddy."
+photo: ../../assets/articles/2025-09-04-hyundai-raid.jpg
+photoAlt: "ICE agents during an enforcement operation"
+photoCaption: "Photo: U.S. Immigration and Customs Enforcement, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 13

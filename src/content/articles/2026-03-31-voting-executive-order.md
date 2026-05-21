@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-b
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Tuesday afternoon: an executive order on federal elections, signed in the Oval Office. The Constitution gives that authority to states and Congress."
+photo: ../../assets/articles/2026-03-31-voting-executive-order.jpg
+photoAlt: "Voters at a polling place in the United States"
+photoCaption: "Photo: voters at a U.S. polling place, via Wikimedia Commons. CC BY."
 featured: false
 rubric:
   - label: "Factual basis"

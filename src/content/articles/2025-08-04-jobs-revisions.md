@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/08/06/trump-bls-jobs-revisions-election.ht
 sourcePublisher: "CNBC"
 readTime: "2 min read"
 blurb: "The President says the rigged numbers came before the election. The numbers came in July. Of this year."
+photo: ../../assets/articles/2025-08-04-jobs-revisions.svg
+photoAlt: "Bureau of Labor Statistics logo"
+photoCaption: "Photo: U.S. Bureau of Labor Statistics, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 4

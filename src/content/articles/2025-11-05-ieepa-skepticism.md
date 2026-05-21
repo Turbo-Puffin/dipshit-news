@@ -10,6 +10,9 @@ sourceUrl: "https://www.thompsonhinesmartrade.com/2025/11/trumps-emergency-tarif
 sourcePublisher: "Thompson Hine"
 readTime: "3 min read"
 blurb: "The administration argued IEEPA authorizes any tariff on any product for any duration. The bench was skeptical."
+photo: ../../assets/articles/2025-11-05-ieepa-skepticism.jpg
+photoAlt: "Exterior of the United States Supreme Court Building."
+photoCaption: "Photo: Library of Congress, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

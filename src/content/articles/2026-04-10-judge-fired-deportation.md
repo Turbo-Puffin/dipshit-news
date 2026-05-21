@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/US/administration-fires-2-immigration-judges-rul
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "She ruled the government had not met its burden. The administration's response was to fire her. The count of immigration judges fired since 2025 now passes a hundred."
+photo: ../../assets/articles/2026-04-10-judge-fired-deportation.jpg
+photoAlt: "Federal agency building entrance."
+photoCaption: "Photo: U.S. federal agency building, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

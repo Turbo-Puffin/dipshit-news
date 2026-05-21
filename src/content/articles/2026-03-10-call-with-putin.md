@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-qui
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Russia gets a sanctions break in the same hour the President promises the heaviest day of strikes inside Iran."
+photo: ../../assets/articles/2026-03-10-call-with-putin.jpg
+photoAlt: "Official 2026 portrait of Russian President Vladimir Putin"
+photoCaption: "Official portrait of Vladimir Putin, via Wikimedia Commons. CC BY 4.0."
 featured: false
 rubric:
   - label: "Factual basis"

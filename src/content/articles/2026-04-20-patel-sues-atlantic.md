@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/business/2026/04/20/chavez-deremer-le
 sourcePublisher: "The Washington Post"
 readTime: "3 min read"
 blurb: "The Bureau Director files a defamation suit. The Labor Secretary, separately, resigns. Same Monday news cycle."
+photo: ../../assets/articles/2026-04-20-patel-sues-atlantic.jpg
+photoAlt: "Official FBI portrait of Director Kash Patel."
+photoCaption: "Official portrait of FBI Director Kash Patel, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

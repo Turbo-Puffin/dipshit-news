@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/02/26/nx-s1-5727777/hillary-clinton-deposit
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Boebert reportedly passed a closed-door deposition photo to a commentator. The deposition paused. The witness continued."
+photo: ../../assets/articles/2026-02-26-boebert-leaks-the-photo.jpg
+photoAlt: "Official portrait of Representative Lauren Boebert"
+photoCaption: "Official portrait of Lauren Boebert, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

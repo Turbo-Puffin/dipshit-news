@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/trump-flag-burning-cashless-bail-execut
 sourcePublisher: "CBS News"
 readTime: "2 min read"
 blurb: "Two Supreme Court rulings already say the federal government can't ban it. So we got an executive order that bans it."
+photo: ../../assets/articles/2025-08-28-flag-burning.svg
+photoAlt: "Flag of the United States"
+photoCaption: "Flag of the United States, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 7

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/live-updates/government-shutdown-latest-shut
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "The government shut down at midnight. By lunch the OMB had frozen $18 billion in New York. Buddy."
+photo: ../../assets/articles/2025-10-01-shutdown-day-one.jpg
+photoAlt: "Official portrait of OMB Director Russell Vought."
+photoCaption: "Official portrait of OMB Director Russ Vought, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

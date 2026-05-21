@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/08/23/nx-s1-5509554/rose-garden-paved"
 sourcePublisher: "NPR"
 readTime: "2 min read"
 blurb: "The grass came out. The stone went in. Yellow-and-white umbrellas. A speaker system. The President can DJ."
+photo: ../../assets/articles/2025-08-23-rose-garden-patio.jpg
+photoAlt: "The White House Rose Garden lawn looking toward the Oval Office"
+photoCaption: "Photo by Kimberlee Hewitt, White House, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 18

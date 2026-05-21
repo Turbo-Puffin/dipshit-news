@@ -10,6 +10,9 @@ sourceUrl: "https://www.usnews.com/news/world/articles/2025-08-07/fbi-ousts-ex-a
 sourcePublisher: "U.S. News & World Report"
 readTime: "3 min read"
 blurb: "The man who would not snitch on his agents got fired. His farewell letter said he was given 'no answers.'"
+photo: ../../assets/articles/2025-08-07-fbi-driscoll.jpg
+photoAlt: "Official portrait of Brian Driscoll"
+photoCaption: "Official portrait of Brian Driscoll, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 6

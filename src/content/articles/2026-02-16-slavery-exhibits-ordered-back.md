@@ -10,6 +10,9 @@ sourceUrl: "https://www.usnews.com/news/politics/articles/2026-02-16/us-judge-te
 sourcePublisher: "U.S. News"
 readTime: "3 min read"
 blurb: "January: the exhibits at Washington's Philadelphia home come down. February: a judge orders them back up."
+photo: ../../assets/articles/2026-02-16-slavery-exhibits-ordered-back.jpg
+photoAlt: "An exhibit panel on slavery at the President's House Site in Philadelphia"
+photoCaption: "Photo by Kreuz und quer, via Wikimedia Commons. CC0 / Public domain dedication."
 rubric:
   - label: "Factual basis"
     score: 17

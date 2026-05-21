@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/pentagon-shoots-down-customs-and-border
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "The Pentagon used a laser to take down a Customs and Border Protection drone over Texas. Same federal government, two agencies."
+photo: ../../assets/articles/2026-02-25-pentagon-laser-cbp-drone.jpg
+photoAlt: "An MQ-9 Reaper drone, the same type CBP operates as the Predator B, in flight"
+photoCaption: "Photo by Paul Ridgeway, U.S. Air Force, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

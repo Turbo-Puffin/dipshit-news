@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/miami/news/trump-executive-order-tightening-
 sourcePublisher: "CBS Miami"
 readTime: "3 min read"
 blurb: "The President signed an order broadening Cuba sanctions on a Friday afternoon. South Florida loved it."
+photo: ../../assets/articles/2026-05-01-cuba-sanctions-eo.svg
+photoAlt: "National flag of Cuba."
+photoCaption: "Image: Flag of Cuba, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

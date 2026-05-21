@@ -10,6 +10,9 @@ sourceUrl: "https://kyivindependent.com/trump-calls-occupied-crimea-size-of-texa
 sourcePublisher: "Kyiv Independent"
 readTime: "2 min read"
 blurb: "Crimea is a peninsula. Attached, by land, to Ukraine. The size of Massachusetts. None of these facts survived the interview."
+photo: ../../assets/articles/2025-08-20-crimea-ocean.png
+photoAlt: "Map showing the Crimean Peninsula attached by land to Ukraine"
+photoCaption: "Map of the Crimean Peninsula, via Wikimedia Commons. Public domain / CC."
 rubric:
   - label: "Factual basis"
     score: 4

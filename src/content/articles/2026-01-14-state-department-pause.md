@@ -10,6 +10,9 @@ sourceUrl: "https://en.wikipedia.org/wiki/Timeline_of_the_second_Trump_presidenc
 sourcePublisher: "Wikipedia (timeline)"
 readTime: "3 min read"
 blurb: "Seventy-five countries. By cable. The list, in the version the public can read, is redacted."
+photo: ../../assets/articles/2026-01-14-state-department-pause.jpg
+photoAlt: "The Harry S Truman Building, headquarters of the U.S. State Department"
+photoCaption: "Photo by AgnosticPreachersKid, via Wikimedia Commons. CC BY-SA 3.0."
 rubric:
   - label: "Factual basis"
     score: 14

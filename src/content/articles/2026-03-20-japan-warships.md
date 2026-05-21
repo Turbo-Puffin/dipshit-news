@@ -10,6 +10,9 @@ sourceUrl: "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press
 sourcePublisher: "The White House"
 readTime: "3 min read"
 blurb: "On the South Lawn, before Marine One, the President asked an ally to do something its founding document forbids."
+photo: ../../assets/articles/2026-03-20-japan-warships.jpg
+photoAlt: "JS Izumo, a Japan Maritime Self-Defense Force helicopter destroyer, at sea"
+photoCaption: "Photo: Japan Maritime Self-Defense Force, via Wikimedia Commons. CC BY."
 featured: false
 rubric:
   - label: "Factual basis"

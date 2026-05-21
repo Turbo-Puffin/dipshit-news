@@ -10,6 +10,9 @@ sourceUrl: "https://ballotpedia.org/Executive_Order:_Establishing_the_Task_Force
 sourcePublisher: "Ballotpedia"
 readTime: "3 min read"
 blurb: "An executive order to crack down on fraud, signed by the President, chaired by his Vice President, while the same week's Doral summit was billed back to State."
+photo: ../../assets/articles/2026-03-16-fraud-task-force.jpg
+photoAlt: "President Donald Trump signing executive orders at the Resolute Desk"
+photoCaption: "Photo: White House, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

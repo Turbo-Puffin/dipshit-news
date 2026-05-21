@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/11/09/government-shutdown-senate-democrats
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "Eight Democrats traded the ACA subsidies for a promise of a future vote. Forty-three days for a hand-shake."
+photo: ../../assets/articles/2025-11-10-eight-democrats.jpg
+photoAlt: "Interior view of the United States Senate chamber where the shutdown deal advanced."
+photoCaption: "Photo: Architect of the Capitol, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/politics/live-news/trump-administration-news-sen
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Three hours of testimony, two walked-back positions, and one Republican vowing to vote no."
+photo: ../../assets/articles/2026-03-18-mullin-anger-issues.jpg
+photoAlt: "Official portrait of DHS Secretary Markwayne Mullin"
+photoCaption: "Official portrait of Markwayne Mullin, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

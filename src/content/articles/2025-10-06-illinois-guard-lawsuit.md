@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/trump-israe
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Illinois sued the federal government for sending troops without being asked. Hon. The state has the floor here."
+photo: ../../assets/articles/2025-10-06-illinois-guard-lawsuit.png
+photoAlt: "Portrait of Illinois Governor J.B. Pritzker."
+photoCaption: "Official portrait of Governor J.B. Pritzker, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

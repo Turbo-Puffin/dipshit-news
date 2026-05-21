@@ -10,6 +10,9 @@ sourceUrl: "https://www.presidency.ucsb.edu/documents/proclamation-10996-nationa
 sourcePublisher: "American Presidency Project"
 readTime: "2 min read"
 blurb: "The proclamation, signed Friday, was the verb 'annihilate' inside a remembrance for the men who died at Pearl Harbor. Hon."
+photo: ../../assets/articles/2025-12-06-pearl-harbor-proclamation.jpg
+photoAlt: "Aerial view of the USS Arizona Memorial at Pearl Harbor, Hawaii."
+photoCaption: "Photo: US Navy, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

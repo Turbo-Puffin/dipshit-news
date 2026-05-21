@@ -10,6 +10,9 @@ sourceUrl: "https://healthpolicy-watch.news/us-alters-childhood-vaccine-schedule
 sourcePublisher: "Health Policy Watch"
 readTime: "3 min read"
 blurb: "The recommended schedule moves from seventeen diseases to eleven. Peer countries do not, in fact, recommend what the memo says they recommend."
+photo: ../../assets/articles/2025-12-05-vaccine-schedule.jpg
+photoAlt: "CDC headquarters building in Atlanta, Georgia."
+photoCaption: "Photo: Centers for Disease Control and Prevention, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

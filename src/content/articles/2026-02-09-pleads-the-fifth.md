@@ -10,6 +10,9 @@ sourceUrl: "https://www.axios.com/2026/02/09/ghislaine-maxwell-pleads-fifth-over
 sourcePublisher: "Axios"
 readTime: "2 min read"
 blurb: "Closed deposition. Maxwell took the Fifth. Her lawyer offered a clemency request and a character reference."
+photo: ../../assets/articles/2026-02-09-pleads-the-fifth.jpg
+photoAlt: "Federal Bureau of Prisons mug shot of Ghislaine Maxwell"
+photoCaption: "Photo: U.S. Federal Bureau of Prisons, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

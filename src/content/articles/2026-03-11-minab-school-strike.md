@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/11/nx-s1-5744981/pentagon-iran-missile-s
 sourcePublisher: "NPR"
 readTime: "4 min read"
 blurb: "The school's coordinates were on a Defense Intelligence Agency target list. The list, according to the inquiry, was outdated."
+photo: ../../assets/articles/2026-03-11-minab-school-strike.jpg
+photoAlt: "A BGM-109 Tomahawk cruise missile being fired from a U.S. Navy vessel"
+photoCaption: "Photo: U.S. Navy, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

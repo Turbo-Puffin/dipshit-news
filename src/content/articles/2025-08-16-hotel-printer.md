@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/08/16/nx-s1-5504196/trump-putin-summit-docu
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Eight pages of summit materials. On a public printer. At a hotel. The White House says it was a lunch menu."
+photo: ../../assets/articles/2025-08-16-hotel-printer.jpg
+photoAlt: "President Trump en route to the 2025 Anchorage summit with Putin"
+photoCaption: "Photo by Daniel Torok, Official White House Photo, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 4

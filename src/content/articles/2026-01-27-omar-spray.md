@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/01/27/ilhan-omar-attack
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Member of Congress, in her own district, sprayed at the lectern by a man with a syringe. She kept talking."
+photo: ../../assets/articles/2026-01-27-omar-spray.jpg
+photoAlt: "Official congressional portrait of Representative Ilhan Omar"
+photoCaption: "Official portrait of Representative Ilhan Omar, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

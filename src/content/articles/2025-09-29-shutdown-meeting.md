@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/trump-netan
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Eleventh-hour meeting. Hours of negotiating. The VP walks out and says the shutdown is likely."
+photo: ../../assets/articles/2025-09-29-shutdown-meeting.jpg
+photoAlt: "Official vice presidential portrait of JD Vance."
+photoCaption: "Official portrait of Vice President JD Vance, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

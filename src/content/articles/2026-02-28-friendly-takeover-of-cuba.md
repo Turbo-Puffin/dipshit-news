@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-t
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "On the South Lawn, on his way to Texas: maybe a friendly takeover of Cuba. The reporting suggests there was no such conversation."
+photo: ../../assets/articles/2026-02-28-friendly-takeover-of-cuba.jpg
+photoAlt: "The Malecon seawall in Havana, Cuba"
+photoCaption: "Photo: the Malecon in Havana, Cuba, via Wikimedia Commons. CC BY-SA."
 rubric:
   - label: "Factual basis"
     score: 8

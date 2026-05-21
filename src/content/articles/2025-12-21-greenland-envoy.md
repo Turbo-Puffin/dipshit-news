@@ -10,6 +10,9 @@ sourceUrl: "https://thehill.com/homenews/administration/5694605-trump-army-navy-
 sourcePublisher: "The Hill"
 readTime: "2 min read"
 blurb: "The Special Envoy to Greenland is the governor of Louisiana. Greenland is owned by Denmark. Hon."
+photo: ../../assets/articles/2025-12-21-greenland-envoy.jpg
+photoAlt: "Official portrait of Jeff Landry, governor of Louisiana, named Special Envoy to Greenland."
+photoCaption: "Official portrait of Jeff Landry, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

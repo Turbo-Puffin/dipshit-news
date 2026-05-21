@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "The order is a rebrand. Only Congress can rename the department. The website is now war.gov."
+photo: ../../assets/articles/2025-09-05-department-of-war.jpg
+photoAlt: "Aerial view of the Pentagon"
+photoCaption: "Photo by Master Sgt. Ken Hammond, U.S. Air Force, via Wikimedia Commons. Public domain (federal work)."
 rubric:
   - label: "Factual basis"
     score: 16

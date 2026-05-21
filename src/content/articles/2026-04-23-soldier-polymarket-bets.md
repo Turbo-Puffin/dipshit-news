@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-pol
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Special forces soldier bets on Polymarket the day before the raid he is on. Wins about $409,000. The President compared it to Pete Rose."
+photo: ../../assets/articles/2026-04-23-soldier-polymarket-bets.jpg
+photoAlt: "Armed federal agents during a tactical operation."
+photoCaption: "Photo: U.S. federal agents on operation, via Wikimedia Commons. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

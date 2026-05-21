@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/11/9/us-government-shutdown-ente
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Air traffic controllers worked unpaid. The FAA cut traffic to keep the system safe. The shutdown was being used as leverage."
+photo: ../../assets/articles/2025-11-08-faa-flight-cuts.jpg
+photoAlt: "FAA air traffic control tower at Bedford-Hanscom airport."
+photoCaption: "Photo: FAA, via Wikimedia Commons. Public domain (CC0)."
 rubric:
   - label: "Factual basis"
     score: 13

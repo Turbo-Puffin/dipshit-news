@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/09/06/politics/trump-chicago-war-meme-post"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Saturday morning Truth Social post. The President's face on the Apocalypse Now poster. Buddy."
+photo: ../../assets/articles/2025-09-06-chipocalypse.jpg
+photoAlt: "The Chicago skyline"
+photoCaption: "Photo by Oriez, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8
