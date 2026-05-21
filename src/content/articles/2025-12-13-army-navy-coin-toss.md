@@ -10,9 +10,9 @@ sourceUrl: "https://www.thedailybeast.com/donald-trump79-stuns-with-inability-to
 sourcePublisher: "The Daily Beast"
 readTime: "3 min read"
 blurb: "He grabbed the coin. He lobbed it up. It did not rotate. It came down. Army won. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-12-13-army-navy-coin-toss.jpg
+photoAlt: "President Donald J. Trump walks the field with the West Point Superintendent at the 126th Army-Navy game, M&T Bank Stadium, Baltimore, December 13, 2025."
+photoCaption: "U.S. Army photo by Sgt. Eli Baker, via DVIDS. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

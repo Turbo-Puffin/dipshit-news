@@ -10,9 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/trump-administration/live-blog/trum
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Hell to pay if Hamas doesn't disarm. The Israel Prize for Peace was, separately, announced for the President."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-12-29-netanyahu-hell-to-pay.jpg
+photoAlt: "President Donald Trump hosts a bilateral meeting with Israeli Prime Minister Benjamin Netanyahu at Mar-a-Lago on December 29, 2025."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

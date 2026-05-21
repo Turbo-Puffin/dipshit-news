@@ -10,9 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2025/08/15/trump-putin-summi
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Red carpet. F-22 honor guard. Photo op. No deal. Putin flew home. The President flew home."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-08-15-alaska-red-carpet.jpg
+photoAlt: "President Trump and Russian President Vladimir Putin walk down a red carpet at Joint Base Elmendorf-Richardson, Alaska, Aug. 15, 2025."
+photoCaption: "U.S. Air Force photo by Airman 1st Class Moises Vasquez. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

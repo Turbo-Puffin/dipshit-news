@@ -10,9 +10,9 @@ sourceUrl: "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-is
 sourcePublisher: "NPR"
 readTime: "2 min read"
 blurb: "Talks broke off in Islamabad. By the next day, the Navy was running a blockade. The ceasefire technically still held."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-04-12-iran-talks-collapse.jpg
+photoAlt: "U.S. Central Command forces begin mine-clearance operations in the Strait of Hormuz, April 11, 2026."
+photoCaption: "U.S. Navy photo by NAVCENT Public Affairs, via DVIDS. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

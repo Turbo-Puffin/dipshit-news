@@ -10,9 +10,9 @@ sourceUrl: "https://www.factcheck.org/2025/09/trump-misleads-on-climate-change-a
 sourcePublisher: "FactCheck.org"
 readTime: "3 min read"
 blurb: "Fifty-seven minutes at the UN. Windmills come up three times. They are still cheap."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-09-24-un-windmills.jpg
+photoAlt: "President Trump delivers remarks at the podium of the 80th UN General Assembly."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

@@ -10,9 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/01/13/politics/ford-plant-trump-middle-fing
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "On the F-150 line in Dearborn. The middle finger goes up. The plant suspends the worker. The union takes it back."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-01-13-ford-plant-finger.jpg
+photoAlt: "President Donald Trump tours the Ford River Rouge Complex in Dearborn, Michigan, January 13, 2026."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

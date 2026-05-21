@@ -11,9 +11,9 @@ sourcePublisher: "NPR"
 pull: "He posted the picture. With a caption. Like a vacation photo."
 readTime: "3 min read"
 blurb: "Air strike on the capital, special forces grab the head of state, and the President posts the trophy photo by lunch."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-01-03-caracas-strike.jpg
+photoAlt: "President Donald Trump delivers remarks at a press conference at Mar-a-Lago following Operation Absolute Resolve in Venezuela, January 3, 2026."
+photoCaption: "Official White House photo by Molly Riley. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

@@ -10,9 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/08/01/trump-erika-mcentarfer-jobs-report-f
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "The July jobs number came in light. The commissioner was out by sundown. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-08-01-bls-commissioner.jpg
+photoAlt: "BLS Commissioner Erika McEntarfer speaking at a Bureau of Labor Statistics event in 2024."
+photoCaption: "Photo by Alyson Fligg, U.S. Department of Labor, via Wikimedia Commons. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

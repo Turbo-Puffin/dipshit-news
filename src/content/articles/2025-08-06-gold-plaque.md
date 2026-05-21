@@ -10,9 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2025/08/07/trump-tim-cook-gi
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "A glass plaque on a 24-karat gold base. Made by an Apple employee. Followed, immediately, by a tariff exemption."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-08-06-gold-plaque.jpg
+photoAlt: "President Trump shakes hands with Apple CEO Tim Cook in the Oval Office during the $100 billion investment announcement."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 21

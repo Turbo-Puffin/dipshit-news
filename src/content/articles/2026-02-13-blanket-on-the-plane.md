@@ -10,9 +10,9 @@ sourceUrl: "https://www.washingtontimes.com/news/2026/feb/13/kristi-noem-reporte
 sourcePublisher: "Washington Times"
 readTime: "3 min read"
 blurb: "A Coast Guard pilot was fired over a left-behind blanket. He was rehired before the return flight."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-02-13-blanket-on-the-plane.jpg
+photoAlt: "DHS Secretary Kristi Noem prepares to board an MH-65 Dolphin helicopter at Coast Guard Air Station Detroit."
+photoCaption: "U.S. Coast Guard photo by Petty Officer 3rd Class Omar Faba. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

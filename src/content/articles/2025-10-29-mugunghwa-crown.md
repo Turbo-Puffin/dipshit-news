@@ -10,9 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/10/29/world/video/trump-gold-crown-south-ko
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "South Korea handed him the Mugunghwa and a gold crown. He said he would 'like to wear it right now.'"
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-10-29-mugunghwa-crown.jpg
+photoAlt: "President Trump is awarded the Grand Order of Mugunghwa by South Korean President Lee Jae Myung at the Gyeongju National Museum."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

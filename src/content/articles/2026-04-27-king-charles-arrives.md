@@ -10,9 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/04/27/us/live-news/king-charles-queen-camil
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Britain's monarch on the South Portico, on the South Lawn, looking at the new beehive shaped like the White House. The country, two days earlier, was on the Hilton floor."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-04-27-king-charles-arrives.jpg
+photoAlt: "President Trump and First Lady Melania Trump greet King Charles III and Queen Camilla at the State Arrival ceremony at the White House."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

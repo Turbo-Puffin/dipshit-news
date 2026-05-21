@@ -10,9 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2025/09/24/trump-video-escal
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Escalator stopped. Teleprompter dark. Audio on the interpreter feed. The UN explained each in turn."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-09-23-un-escalator.jpg
+photoAlt: "President Trump arrives at the UN General Assembly to deliver remarks on September 23, 2025."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

@@ -10,9 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/2/4/a-great-honor-takeaways-from
 sourcePublisher: "Al Jazeera"
 readTime: "2 min read"
 blurb: "Two hours behind closed doors. The President called Petro 'terrific.' Petro corrected the hat in pen."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-02-03-make-the-americas-great-again.jpg
+photoAlt: "President Donald Trump meets with Colombian President Gustavo Petro Urrego in the Oval Office, February 3, 2026."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

@@ -10,9 +10,9 @@ sourceUrl: "https://www.nbcnews.com/news/us-news/trump-draws-cheers-boos-marking
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Pentagon at noon. Yankees at seven. The anthem on the jumbotron caught audible boos."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-09-11-yankees-anniversary.jpg
+photoAlt: "President Trump attends a game between the New York Yankees and Detroit Tigers at Yankee Stadium, September 11, 2025."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

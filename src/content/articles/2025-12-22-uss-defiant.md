@@ -10,9 +10,9 @@ sourceUrl: "https://news.usni.org/2025/12/22/trump-unveils-new-battleship-class-
 sourcePublisher: "USNI News"
 readTime: "4 min read"
 blurb: "Trump-class battleship. USS Defiant. He is, in his words, a very aesthetic person. The first ship arrives in the 2030s. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-12-22-uss-defiant.jpg
+photoAlt: "USS Gerald R. Ford Carrier Strike Group at sea; the President announced a new class of Navy battleships at Mar-a-Lago."
+photoCaption: "U.S. Navy photo by Petty Officer 2nd Class Tajh Payne, via DVIDS. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8
