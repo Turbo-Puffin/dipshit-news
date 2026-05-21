@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/12/17/g-s1-102569/trump-expands-travel-ban-
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Thirty-nine countries on the list. Effective January 1. The Republic of the Congo is on the list. So is Tonga. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

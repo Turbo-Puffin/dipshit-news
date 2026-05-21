@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "After the UK's MoD put a flagship carrier on high readiness, the President posted that we will not need 'people that join Wars after we've already won!'"
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

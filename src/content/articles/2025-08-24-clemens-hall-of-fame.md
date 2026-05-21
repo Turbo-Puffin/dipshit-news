@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/08/25/sport/golf-ryder-cup-trump-intl"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Sunday post, all caps. Roger Clemens. NOW. The Baseball Hall of Fame is a private museum in upstate New York."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

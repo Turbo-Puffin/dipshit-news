@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/12/02/politics/fact-check-trump-cabinet-mee
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "The final cabinet meeting of the year. False claims on prices, foreign affairs, and 2020. The cameras stayed on."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

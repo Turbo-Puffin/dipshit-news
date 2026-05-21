@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/04/02/politics/donald-trump-iran-war-daycar
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "An Easter lunch with handpicked Christian leaders. The President riffed on a No Kings protest by saying, you guessed it, they call me king."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

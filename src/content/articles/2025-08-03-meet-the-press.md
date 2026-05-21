@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/economics/economic-adviser-kevin-ha
 sourcePublisher: "NBC News"
 readTime: "2 min read"
 blurb: "On Meet the Press: 'a fresh set of eyes.' On the actual rigging claim: nothing. That's the whole segment."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/02/08/politics/hunter-hess-trump-olympics-s
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Hess had said wearing the flag does not mean he endorses everything. The President said he should not have made the team."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 21

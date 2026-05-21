@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/10/21/nx-s1-5581714/paul-ingrassia-nominati
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "The nominee said he had 'a Nazi streak.' He withdrew the night before the hearing. The vetting was the failure. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

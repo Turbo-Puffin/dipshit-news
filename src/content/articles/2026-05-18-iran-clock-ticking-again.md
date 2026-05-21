@@ -10,7 +10,7 @@ sourceUrl: "https://thehill.com/homenews/administration/5882193-trump-iran-clock
 sourcePublisher: "The Hill"
 readTime: "2 min read"
 pull: "Move FAST or there won't be anything left of them."
-photo: ../../assets/articles/2026-05-18-iran-clock-ticking-again.jpg
+photo: ../../assets/articles/trump-portrait-2025.jpg
 photoAlt: "Official portrait of the President of the United States, 2025."
 photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 blurb: "Sunday's Truth Social post warned Iran that the clock is ticking and 'there won't be anything left of them.' Stocks dropped Monday. Oil jumped. The previous deadlines this year did not result in war, but the markets cannot tell yet which one will."

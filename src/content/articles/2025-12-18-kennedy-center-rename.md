@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/entertainment/2025/12/18/kennedy-cent
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The Kennedy Center is, as of Thursday, the Trump-Kennedy Center. The man it was named for died in 1963. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/11/9/bbc-director-general-tim-da
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "The BBC made a bad edit. The director general quit. The President asked for a billion dollars anyway."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

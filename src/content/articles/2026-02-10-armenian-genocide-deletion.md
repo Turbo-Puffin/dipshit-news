@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/02/10/politics/jd-vance-x-post-armenian-gen
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Posted from a memorial in Yerevan. Deleted within the hour. Office said 'in error.' Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

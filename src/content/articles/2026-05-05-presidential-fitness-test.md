@@ -10,6 +10,9 @@ sourceUrl: "https://www.deseret.com/u-s-world/2026/05/05/president-donald-trump-
 sourcePublisher: "Deseret News"
 readTime: "3 min read"
 blurb: "Sit-ups, pull-ups, push-ups, the mile run, and the gymnasium dread of an entire generation, restored."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

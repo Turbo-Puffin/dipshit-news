@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/justice-department/trump-admin-appe
 sourcePublisher: "NBC News"
 readTime: "2 min read"
 blurb: "DOJ appealed. The President called the judge a disgrace. The statute is the same statute either way."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

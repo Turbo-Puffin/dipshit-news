@@ -10,6 +10,9 @@ sourceUrl: "https://www.pbs.org/newshour/show/families-in-lebanon-still-search-r
 sourcePublisher: "PBS NewsHour"
 readTime: "3 min read"
 blurb: "The Iran ceasefire was hours old. Israel's strikes on Beirut were called Operation Eternal Darkness."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

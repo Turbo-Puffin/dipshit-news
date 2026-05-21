@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/05/07/world/live-news/trump-iran-war-news"
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Three destroyers in the Strait, an exchange of fire, and a President at a podium promising harder, more violent."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

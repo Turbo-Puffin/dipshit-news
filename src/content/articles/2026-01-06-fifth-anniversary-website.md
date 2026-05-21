@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/01/06/trump-white-house
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The official White House website says no officers died on January 6. The names of the officers are public record."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/04/21/world/live-news/iran-war-us-trump-isr
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "Extended until the Iranians, who he says are too divided to govern, deliver a unified proposal. The blockade continues."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

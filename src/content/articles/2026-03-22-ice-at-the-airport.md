@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Five weeks into the DHS shutdown, the agency that arrests undocumented people is now checking your boarding pass."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

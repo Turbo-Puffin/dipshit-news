@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/pete-hegseth-impeachment-articles-house
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "Six articles. Filed by the first Iranian-American in Congress. No chance of passing the chamber. The substance is on the docket anyway."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

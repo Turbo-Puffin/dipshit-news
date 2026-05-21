@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/08/30/politics/where-is-donald-trump"
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "After a week of rumors about a bruised hand, CNN found him at the golf course. Again."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

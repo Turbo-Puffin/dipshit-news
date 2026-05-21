@@ -10,6 +10,9 @@ sourceUrl: "https://newrepublic.com/post/204417/donald-trump-christmas-speech-sn
 sourcePublisher: "The New Republic"
 readTime: "3 min read"
 blurb: "He opened with the three attacks. He closed with the snakes. The transit between them took three minutes."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

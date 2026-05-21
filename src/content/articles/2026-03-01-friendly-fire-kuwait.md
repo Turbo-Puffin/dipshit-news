@@ -10,6 +10,9 @@ sourceUrl: "https://www.militarytimes.com/news/your-military/2026/03/02/3-f-15s-
 sourcePublisher: "Military Times"
 readTime: "3 min read"
 blurb: "On the first weekend of the war, a Kuwaiti F/A-18 brought down three U.S. F-15Es. CENTCOM called it apparent friendly fire."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

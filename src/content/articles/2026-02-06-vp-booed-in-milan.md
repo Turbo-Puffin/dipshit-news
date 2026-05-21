@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnewyork.com/olympics/2026-milan-cortina/jd-vance-booe
 sourcePublisher: "NBC New York"
 readTime: "3 min read"
 blurb: "VP and Second Lady on the jumbotron. Sixty-five thousand people in Milan got their answer in early."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

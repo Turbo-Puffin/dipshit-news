@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/03/05/politics/kristi-noem-trump-homeland-s
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "After two days of bipartisan grilling on Capitol Hill, the DHS Secretary is reassigned to a new portfolio. The President's senator replaces her."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

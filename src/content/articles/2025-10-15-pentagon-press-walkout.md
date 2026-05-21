@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/business/2025/10/19/pentagon-press-po
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "ABC, CBS, NBC, CNN, Fox, AP, NYT, WaPo, NPR. All turned in their Pentagon badges. One outlet signed. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

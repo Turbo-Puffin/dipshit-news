@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2026/02/18/gateway-trump-funding-new-york-jerse
 sourcePublisher: "CNBC"
 readTime: "2 min read"
 blurb: "$127 million released for the New York-New Jersey rail tunnel. The funds had been frozen for weeks."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

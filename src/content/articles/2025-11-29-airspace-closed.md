@@ -10,6 +10,9 @@ sourceUrl: "https://www.pbs.org/newshour/show/november-29-2025-pbs-news-weekend-
 sourcePublisher: "PBS NewsHour Weekend"
 readTime: "3 min read"
 blurb: "He posted that Venezuelan airspace was closed. Venezuela is the only country that can legally close it."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

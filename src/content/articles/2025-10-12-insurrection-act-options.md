@@ -10,6 +10,9 @@ sourceUrl: "https://www.newsweek.com/trump-is-looking-at-all-options-before-invo
 sourcePublisher: "Newsweek"
 readTime: "2 min read"
 blurb: "Asked Sunday morning if the administration is considering the Insurrection Act, the VP did not say no. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "He spent six weeks calling the shutdown good for him. He signed the bill calling it extortion. Same shutdown."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

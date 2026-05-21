@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/08/01/trump-erika-mcentarfer-jobs-report-f
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "The July jobs number came in light. The commissioner was out by sundown. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

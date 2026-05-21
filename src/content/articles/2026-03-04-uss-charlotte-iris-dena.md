@@ -10,6 +10,9 @@ sourceUrl: "https://www.navalnews.com/naval-news/2026/03/iranian-warship-sunk-in
 sourcePublisher: "Naval News"
 readTime: "3 min read"
 blurb: "USS Charlotte fired two Mark 48 torpedoes at the IRIS Dena nineteen miles off the coast of Sri Lanka. The frigate sank in three minutes."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

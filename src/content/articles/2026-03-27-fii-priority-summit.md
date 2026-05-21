@@ -10,6 +10,9 @@ sourceUrl: "https://edition.cnn.com/2026/03/27/politics/live-news/trump-administ
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Friday in Miami: the President addressed a Saudi-backed investment conference, took credit for the TikTok deal, and floated annexing Cuba."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

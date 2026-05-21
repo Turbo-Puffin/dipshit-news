@@ -10,6 +10,9 @@ sourceUrl: "https://meidasnews.com/news/trump-heads-to-golf-course-amid-governme
 sourcePublisher: "MeidasTouch News"
 readTime: "2 min read"
 blurb: "Day four of the shutdown. The motorcade rolls at 9:57 a.m. The agenda did not list it. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-w
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Fifteen days in, two senior officials describe two different timelines. The President says ahead. The Pentagon says longer."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

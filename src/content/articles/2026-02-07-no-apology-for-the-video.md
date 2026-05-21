@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/02/06/politics/donald-trump-obamas-apes-tru
 sourcePublisher: "CNN"
 readTime: "4 min read"
 blurb: "Twelve hours of the AI video stayed up. The first official defense, from the lectern, was that it was a Lion King reference."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 22

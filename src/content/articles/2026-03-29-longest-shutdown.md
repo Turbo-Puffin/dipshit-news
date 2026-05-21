@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/trump-administration/dhs-funding-la
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "On Sunday, the DHS shutdown surpassed the 35-day record from 2019. By the time the new Secretary takes office, it will be longer still."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

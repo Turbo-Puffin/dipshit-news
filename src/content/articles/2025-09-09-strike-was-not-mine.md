@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/09/10/politics/trump-israel-qatar-airstrike
 sourcePublisher: "CNN"
 readTime: "2 min read"
 blurb: "He didn't know about the strike. He let Qatar know about the strike. The strike was already happening. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

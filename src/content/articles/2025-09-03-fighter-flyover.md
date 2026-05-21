@@ -10,6 +10,9 @@ sourceUrl: "https://rollcall.com/2025/09/03/trump-polish-president-nawrocki-gove
 sourcePublisher: "Roll Call"
 readTime: "2 min read"
 blurb: "F-16s over the lawn. A bilat with the man he endorsed. No message for Putin. Funny how that works."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

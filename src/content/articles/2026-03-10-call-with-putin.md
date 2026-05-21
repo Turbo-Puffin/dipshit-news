@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-qui
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Russia gets a sanctions break in the same hour the President promises the heaviest day of strikes inside Iran."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

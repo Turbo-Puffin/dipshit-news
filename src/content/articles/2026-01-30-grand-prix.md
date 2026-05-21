@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/Politics/trump-orders-indycar-race-streets-dc-pa
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "Executive order: an IndyCar race around the Lincoln Memorial. Roger Penske at the Oval Office signing."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

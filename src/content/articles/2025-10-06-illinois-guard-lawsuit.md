@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/trump-israe
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Illinois sued the federal government for sending troops without being asked. Hon. The state has the floor here."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

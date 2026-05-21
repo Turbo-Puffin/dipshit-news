@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/11/19/from-1-trillion-spending-to-f-35s-us
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "270B in actual deals. A trillion-dollar pledge. F-35s to a country Israel asked us not to sell F-35s to."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

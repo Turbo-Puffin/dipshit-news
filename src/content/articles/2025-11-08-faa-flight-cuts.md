@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/11/9/us-government-shutdown-ente
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Air traffic controllers worked unpaid. The FAA cut traffic to keep the system safe. The shutdown was being used as leverage."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

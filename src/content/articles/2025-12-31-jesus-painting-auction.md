@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/12/31/politics/mar-a-lago-new-years-eve-par
 sourcePublisher: "CNN Politics"
 readTime: "4 min read"
 blurb: "Speed painter. Jesus on a black canvas. Hallelujah on slow. Three million on the gavel. Tickets fourteen-fifty. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

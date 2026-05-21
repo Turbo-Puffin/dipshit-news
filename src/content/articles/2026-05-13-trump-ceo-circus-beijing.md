@@ -10,6 +10,9 @@ sourceUrl: "https://apnews.com/article/trump-xi-china-trip-arrival-353c768987542
 sourcePublisher: "AP"
 readTime: "2 min read"
 blurb: "Donald Trump landed in Beijing with twelve CEOs in tow and a Truth Social post calling them the world's greatest businessmen. His ask for Xi Jinping: open up."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

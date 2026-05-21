@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/04/19/trump-ballroom-pu
 sourcePublisher: "The Washington Post"
 readTime: "3 min read"
 blurb: "The Post tallied the public mentions. The ballroom comes up in almost every appearance, regardless of subject."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

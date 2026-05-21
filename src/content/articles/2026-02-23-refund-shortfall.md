@@ -10,6 +10,9 @@ sourceUrl: "https://thehill.com/business/5833904-average-2026-tax-refunds-trump-
 sourcePublisher: "The Hill"
 readTime: "3 min read"
 blurb: "Refunds are up 11 percent, an average of $346. The White House had projected $1,000 or more."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 19

@@ -10,6 +10,9 @@ sourceUrl: "https://newrepublic.com/post/199349/trump-albania-armenia-conservati
 sourcePublisher: "The New Republic"
 readTime: "3 min read"
 blurb: "He said 'Aber-baijan' and Albania. The country he ended a war with is Armenia. Eleven days after he hosted the actual peace signing."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 4

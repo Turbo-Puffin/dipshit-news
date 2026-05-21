@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/04/04/trump-ballroom-ap
 sourcePublisher: "The Washington Post"
 readTime: "3 min read"
 blurb: "On a war Saturday, the urgent legal filing was the East Wing ballroom appeal. The argument: there is a bunker."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

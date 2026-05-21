@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/04/23/nx-s1-5797957/maduro-raid-charges-pol
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Special forces soldier bets on Polymarket the day before the raid he is on. Wins about $409,000. The President compared it to Pete Rose."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"
