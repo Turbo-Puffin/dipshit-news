@@ -10,9 +10,9 @@ sourceUrl: "https://www.npr.org/2025/10/16/nx-s1-5576499/trump-putin-zelenskyy-r
 sourcePublisher: "NPR"
 readTime: "2 min read"
 blurb: "Phone Russia, announce the Budapest summit, then host the country with the territory. The order of operations matters."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-10-17-zelenskyy-oval.jpg
+photoAlt: "President Trump greets Ukrainian President Zelenskyy at the West Wing entrance on October 17, 2025."
+photoCaption: "Official White House photo by Juliana Luz. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

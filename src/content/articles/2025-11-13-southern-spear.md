@@ -10,9 +10,9 @@ sourceUrl: "https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-bo
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "They named it. Twenty-two strikes, eighty-seven dead. The evidence the boats are cartels has not been shown."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-11-13-southern-spear.jpg
+photoAlt: "USS Gerald R. Ford Carrier Strike Group conducts joint operations with U.S. Air Force B-52 ahead of Caribbean deployment for Operation Southern Spear."
+photoCaption: "U.S. Navy photo by Petty Officer 2nd Class Tajh Payne, via DVIDS. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

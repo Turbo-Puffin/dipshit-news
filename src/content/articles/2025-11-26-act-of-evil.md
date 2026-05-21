@@ -10,9 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/dc-md-va/2025/11/26/national-guard-sh
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Two soldiers shot two blocks from the White House. The shooter was vetted three times by the U.S. government."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-11-26-act-of-evil.jpg
+photoAlt: "Dignified transfer of U.S. Army Spc. Sarah Beckstrom, 20, of the West Virginia National Guard, killed in the November 26 shooting near the White House."
+photoCaption: "Photo by Edwin L. Wriston, via DVIDS. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

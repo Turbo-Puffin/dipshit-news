@@ -10,9 +10,9 @@ sourceUrl: "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-
 sourcePublisher: "Roll Call"
 readTime: "3 min read"
 blurb: "State banquet. The toast called Catherine 'radiant, healthy, beautiful.' The Queen, separately, was 'very special.'"
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-09-17-windsor-banquet.jpg
+photoAlt: "President Trump and First Lady Melania Trump attend a State Banquet with King Charles III and Queen Camilla at Windsor Castle, September 17, 2025."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

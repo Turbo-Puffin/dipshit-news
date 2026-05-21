@@ -10,9 +10,9 @@ sourceUrl: "https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "Three hours at Mar-a-Lago. The President says ninety-five percent is settled. The five percent is, on the map, the country. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-12-28-zelenskyy-mar-a-lago.jpg
+photoAlt: "President Donald Trump meets with Ukrainian President Volodymyr Zelensky at Mar-a-Lago on December 28, 2025."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

@@ -10,9 +10,9 @@ sourceUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-hegseth-celeb
 sourcePublisher: "PBS NewsHour"
 readTime: "3 min read"
 blurb: "Day five of the shutdown. The Navy fires five $2 million missiles into the Atlantic. The walk-off song is YMCA."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-10-05-norfolk-missiles.jpg
+photoAlt: "President Trump addresses approximately 15,000 sailors at Pier 14 during the Navy 250th All Hands Call at Naval Station Norfolk."
+photoCaption: "U.S. Navy photo by Petty Officer 2nd Class Keresea Illenye. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

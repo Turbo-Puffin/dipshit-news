@@ -10,9 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/world/2025/11/18/saudi-prince-trump-v
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "The reporter asked about a journalist hacked apart in a consulate. He said: things happen. He told her not to embarrass our guest."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-11-18-things-happen.jpg
+photoAlt: "President Trump meets with Saudi Crown Prince Mohammed bin Salman in the Oval Office, November 18, 2025."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

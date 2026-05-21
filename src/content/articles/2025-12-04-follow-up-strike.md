@@ -10,9 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/12/04/politics/strike-lawmakers-briefing-ra
 sourcePublisher: "CNN Politics"
 readTime: "3 min read"
 blurb: "The press shop confirmed the second strike. The first strike already left two men in the water. The second strike was for them. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-12-04-follow-up-strike.jpg
+photoAlt: "USS Gerald R. Ford Carrier Strike Group operating in the Caribbean theater of Operation Southern Spear."
+photoCaption: "U.S. Navy photo by Petty Officer 2nd Class Tajh Payne, via DVIDS. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

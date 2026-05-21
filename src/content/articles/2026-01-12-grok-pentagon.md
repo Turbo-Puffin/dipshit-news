@@ -10,9 +10,9 @@ sourceUrl: "https://www.newsweek.com/hegseth-announces-grok-access-to-classified
 sourcePublisher: "Newsweek"
 readTime: "3 min read"
 blurb: "The Defense Secretary announced Grok on the Pentagon networks. He announced it from SpaceX."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-01-12-grok-pentagon.jpg
+photoAlt: "Secretary of Defense Pete Hegseth, official portrait."
+photoCaption: "U.S. Department of Defense photo by Chad J. McNeeley. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

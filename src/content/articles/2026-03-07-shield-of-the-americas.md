@@ -10,9 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/trump-shield-of-the-americas-summit/"
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "Hemispheric summit. At the President's resort. Without three of the four largest countries in the hemisphere."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-03-07-shield-of-the-americas.jpg
+photoAlt: "President Trump and Latin American leaders sign the Doral Charter of Liberty at the Shield of the Americas summit."
+photoCaption: "Official White House photo by Molly Riley. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

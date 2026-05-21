@@ -10,9 +10,9 @@ sourceUrl: "https://www.cbsnews.com/news/john-bolton-indicted-trump/"
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "Eighteen counts against the former adviser. The President's own classified documents case was dismissed in January."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-10-14-bolton-indictment.jpg
+photoAlt: "Official photo of John R. Bolton from his time as National Security Advisor."
+photoCaption: "Official U.S. government portrait of John R. Bolton. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

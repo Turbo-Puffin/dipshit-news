@@ -10,9 +10,9 @@ sourceUrl: "https://www.politifact.com/article/2026/jan/20/trump-press-briefing-
 sourcePublisher: "PolitiFact"
 readTime: "3 min read"
 blurb: "104 minutes. A book held up. 365 wins. The fact-checkers had to add pages."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-01-20-anniversary-marathon.jpg
+photoAlt: "President Donald Trump addresses members of the media in the James S. Brady Press Briefing Room on January 20, 2026."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

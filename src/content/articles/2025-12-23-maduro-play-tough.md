@@ -10,9 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/12/23/trump-warns-maduro-not-to-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "The deadline passed. The leader did not leave. Russia and China backed him. The President said: don't play tough."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-12-23-maduro-play-tough.jpg
+photoAlt: "Venezuelan President Nicolas Maduro in 2023."
+photoCaption: "Photo by Ricardo Stuckert / Palacio do Planalto, via Wikimedia Commons. CC BY 2.0."
 rubric:
   - label: "Factual basis"
     score: 11

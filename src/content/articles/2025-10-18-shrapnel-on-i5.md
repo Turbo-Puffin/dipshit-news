@@ -10,9 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/10/19/us/camp-pendleton-marines-demonstrati
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Live ordnance over the 5 freeway. It misfired. The shrapnel hit the Vice President's escort. Hon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-10-18-shrapnel-on-i5.jpg
+photoAlt: "U.S. Marines conduct the 250th Marine Corps Birthday Amphibious Capabilities Demonstration at Camp Pendleton on October 18, 2025."
+photoCaption: "U.S. Marine Corps photo by Cpl. Jacqueline Akamelu. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

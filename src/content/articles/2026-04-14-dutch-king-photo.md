@@ -10,9 +10,9 @@ sourceUrl: "https://www.newsweek.com/awkward-moment-trump-king-netherlands-caugh
 sourcePublisher: "Newsweek"
 readTime: "2 min read"
 blurb: "The Netherlands sent the king. The internet measured the photo with rulers. The Dutch PM said the dinner was constructive."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-04-14-dutch-king-photo.jpg
+photoAlt: "President Trump and First Lady Melania Trump greet King Willem-Alexander and Queen Maxima of the Netherlands at the White House."
+photoCaption: "Official White House photo by Daniel Torok. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

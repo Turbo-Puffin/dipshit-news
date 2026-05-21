@@ -10,9 +10,9 @@ sourceUrl: "https://www.cbsnews.com/live-updates/king-charles-trump-address-cong
 sourcePublisher: "CBS News"
 readTime: "3 min read"
 blurb: "Joint session, white-tie dinner, submarine bell as the gift. The room had Bezos, Cook, Ivanka, the Fox primetime, and a Queen."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2026-04-28-charles-addresses-congress.jpg
+photoAlt: "President Trump and First Lady Melania Trump host a State Dinner for King Charles III and Queen Camilla at the White House, April 28, 2026."
+photoCaption: "Official White House photo by Andrea Hanks. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

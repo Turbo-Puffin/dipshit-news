@@ -10,9 +10,9 @@ sourceUrl: "https://rollcall.com/2025/09/03/trump-polish-president-nawrocki-gove
 sourcePublisher: "Roll Call"
 readTime: "2 min read"
 blurb: "F-16s over the lawn. A bilat with the man he endorsed. No message for Putin. Funny how that works."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
+photo: ../../assets/articles/2025-09-03-fighter-flyover.jpg
+photoAlt: "F-35 and F-16 fighter jets perform a flyover at the White House in honor of the visit of Polish President Karol Nawrocki, September 3, 2025, with a single F-16 in missing-man formation."
+photoCaption: "Official White House photo by Andrea Hanks. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16
