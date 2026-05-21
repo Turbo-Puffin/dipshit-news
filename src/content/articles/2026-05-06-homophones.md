@@ -9,7 +9,7 @@ tags: ["unscripted", "homophones", "live-coverage"]
 sourceUrl: "https://www.ibtimes.co.uk/trump-sea-vs-see-gaffe-1795848"
 sourcePublisher: "IBTimes UK"
 pull: "Sea and see. They sound the same. But they are spelled different. Different letters. Different."
-featured: true
+featured: false
 readTime: "3 min read"
 blurb: "On-camera homophone breakdown clipped, captioned, and shared inside the hour."
 rubric:

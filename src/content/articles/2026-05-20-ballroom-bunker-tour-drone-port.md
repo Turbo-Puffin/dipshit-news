@@ -11,7 +11,7 @@ sourcePublisher: "Reuters"
 readTime: "2 min read"
 pull: "Beneath the ballroom, there will be a complex extending six stories deep."
 blurb: "On Tuesday, the President walked Reuters and other reporters through the new ninety-thousand-square-foot White House ballroom, narrating the drone port on the roof, the military hospital underground, and the four-inch glass. He asked Congress for one billion dollars in the same tour."
-featured: false
+featured: true
 rubric:
   - label: "Factual basis"
     score: 24
