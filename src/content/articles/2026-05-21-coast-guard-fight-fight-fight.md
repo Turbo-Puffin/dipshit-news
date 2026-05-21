@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/05/20/trump-tells-coast
 sourcePublisher: "Washington Post"
 readTime: "2 min read"
 pull: "You will fight, fight, fight and win, win win."
+photo: ../../assets/articles/2026-05-21-coast-guard-fight-fight-fight.jpg
+photoAlt: "A Coast Guard cadet walks across the stage during the academy's graduation ceremony in New London, Connecticut."
+photoCaption: "U.S. Coast Guard photo by Petty Officer 3rd Class Lyric Jackson. Public domain."
 blurb: "The President gave the keynote at the 145th Coast Guard Academy commencement on Wednesday, behind a clear protective panel, for about an hour. He told 260 newly commissioned junior officers to fight, fight, fight. The Coast Guard, generally, does not fight."
 featured: false
 rubric:
