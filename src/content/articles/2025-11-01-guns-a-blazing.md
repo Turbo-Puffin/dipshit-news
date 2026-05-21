@@ -10,9 +10,6 @@ sourceUrl: "https://www.washingtonpost.com/world/2025/11/01/nigeria-christian-ge
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Saturday post, Saturday war plan. The country in question was learning about it the same time the Pentagon was."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

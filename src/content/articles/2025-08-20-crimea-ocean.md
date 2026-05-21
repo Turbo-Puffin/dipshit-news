@@ -10,9 +10,6 @@ sourceUrl: "https://kyivindependent.com/trump-calls-occupied-crimea-size-of-texa
 sourcePublisher: "Kyiv Independent"
 readTime: "2 min read"
 blurb: "Crimea is a peninsula. Attached, by land, to Ukraine. The size of Massachusetts. None of these facts survived the interview."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 4

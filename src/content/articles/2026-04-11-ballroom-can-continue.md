@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2026/04/11/politics/trump-ballroom-construction-
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "The District Court said April 14. The appeals court extended it a week. The argument that worked was the bunker."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

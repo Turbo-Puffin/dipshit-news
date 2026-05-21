@@ -9,9 +9,6 @@ tags: ["unscripted", "homophones", "live-coverage"]
 sourceUrl: "https://www.ibtimes.co.uk/trump-sea-vs-see-gaffe-1795848"
 sourcePublisher: "IBTimes UK"
 pull: "Sea and see. They sound the same. But they are spelled different. Different letters. Different."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 readTime: "3 min read"
 blurb: "On-camera homophone breakdown clipped, captioned, and shared inside the hour."

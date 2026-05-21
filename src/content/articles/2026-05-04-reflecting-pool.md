@@ -10,9 +10,6 @@ sourceUrl: "https://www.wichitaliberty.org/politics/trump-small-business-summit-
 sourcePublisher: "Wichita Liberty"
 readTime: "2 min read"
 blurb: "He said he did it for one point nine. The federal estimate said three hundred and fifty. Somebody is wrong by a factor of 184."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

@@ -10,9 +10,6 @@ sourceUrl: "https://www.nbcnews.com/news/us-news/trump-us-open-men-singles-final
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Match delayed thirty minutes. Stadium ten percent full when he waved. Broadcasters told to mute the boos. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

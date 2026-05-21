@@ -10,9 +10,6 @@ sourceUrl: "https://www.npr.org/2025/12/02/nx-s1-5627109/dec-2-cabinet-trump"
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "He was telling us prices were down. The Novo Nordisk man hit the carpet. Event over."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

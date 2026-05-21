@@ -10,9 +10,6 @@ sourceUrl: "https://www.aljazeera.com/news/2026/1/8/us-senate-passes-measure-to-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Senate advances the war powers resolution. The President's response was a Truth Social post."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

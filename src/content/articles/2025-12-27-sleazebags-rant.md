@@ -10,9 +10,6 @@ sourceUrl: "https://www.thenewdaily.com.au/news/world/us-news/trump-news/2025/12
 sourcePublisher: "The New Daily"
 readTime: "2 min read"
 blurb: "Christmas-week post. To the sleazebags. Enjoy what may be your last merry Christmas. Hon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

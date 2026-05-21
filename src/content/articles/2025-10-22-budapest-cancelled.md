@@ -10,9 +10,6 @@ sourceUrl: "https://abcnews.com/Politics/plans-trump-putin-meet-immediate-future
 sourcePublisher: "ABC News"
 readTime: "2 min read"
 blurb: "Six days from announcement to cancellation. Three calendars reshuffled. No summit. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

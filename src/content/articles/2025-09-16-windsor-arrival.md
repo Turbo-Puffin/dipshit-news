@@ -10,9 +10,6 @@ sourceUrl: "https://www.pbs.org/newshour/politics/king-charles-iii-greets-trump-
 sourcePublisher: "PBS NewsHour"
 readTime: "3 min read"
 blurb: "Carriage rides. State banquet. Toast goes off-script: 'maybe the last time, I hope it is, actually.' Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

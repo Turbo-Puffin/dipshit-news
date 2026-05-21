@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnbc.com/2025/10/23/trump-san-francisco-national-guard-h
 sourcePublisher: "CNBC"
 readTime: "2 min read"
 blurb: "The Mayor had been asking. The CEOs of Nvidia and Salesforce called. The deployment was canceled the same afternoon."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

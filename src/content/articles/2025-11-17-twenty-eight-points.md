@@ -10,9 +10,6 @@ sourceUrl: "https://www.chathamhouse.org/2025/11/trump-pressures-ukraine-accept-
 sourcePublisher: "Chatham House"
 readTime: "3 min read"
 blurb: "Witkoff and Dmitriev wrote 28 points. Ukraine, the country in question, was handed the document already finished."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

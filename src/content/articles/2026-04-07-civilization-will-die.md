@@ -10,9 +10,6 @@ sourceUrl: "https://www.nbcnews.com/politics/white-house/trump-threat-whole-civi
 sourcePublisher: "NBC News"
 readTime: "4 min read"
 blurb: "On Tuesday morning: a whole civilization will die tonight. By 8pm: ceasefire, brokered by Pakistan."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

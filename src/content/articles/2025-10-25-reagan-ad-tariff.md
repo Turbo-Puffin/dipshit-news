@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/10/25/business/trump-tariffs-canada-reagan"
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Canada ran a TV ad of Ronald Reagan being against tariffs. The President added ten percent to Canada's tariff. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

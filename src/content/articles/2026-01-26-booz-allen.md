@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnbc.com/2026/01/26/trump-tax-records-treasury-cancels-b
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "31 contracts. $21 million. Cancelled because of a 2018 leak the contractor was already imprisoned for."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

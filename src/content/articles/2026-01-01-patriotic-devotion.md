@@ -10,9 +10,6 @@ sourceUrl: "https://www.whitehouse.gov/presidential-actions/2026/01/national-day
 sourcePublisher: "The White House"
 readTime: "2 min read"
 blurb: "First proclamation of the year. The President signed it. The President is also, conveniently, in it."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

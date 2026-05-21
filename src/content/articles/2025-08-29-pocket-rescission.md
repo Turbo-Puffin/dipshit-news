@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/08/29/politics/trump-pocket-rescission-fore
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "The pocket rescission was last attempted in 1977. The GAO has said it is illegal. The administration is using it anyway."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 14

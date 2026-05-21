@@ -10,9 +10,6 @@ sourceUrl: "https://www.cnn.com/2025/08/13/politics/kennedy-center-honorees-dona
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "He picked the honorees. He'll host the show. He used the word 'wokesters.' Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

@@ -10,9 +10,6 @@ sourceUrl: "https://www.theguardian.com/world/iran"
 sourcePublisher: "The Guardian"
 readTime: "2 min read"
 blurb: "Iran sent proposals. Trump called them unacceptable. He also hadn't finished reading them. The ceasefire is on life support. Make that make sense."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 23

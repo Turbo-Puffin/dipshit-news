@@ -10,9 +10,6 @@ sourceUrl: "https://www.cbc.ca/news/politics/trump-carney-meeting-white-house-1.
 sourcePublisher: "CBC News"
 readTime: "2 min read"
 blurb: "Carney flew in. They sat down. They stood up. There is no deal. The trade minister came out by himself. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

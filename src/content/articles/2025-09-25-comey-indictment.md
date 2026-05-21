@@ -10,9 +10,6 @@ sourceUrl: "https://abcnews.com/US/former-fbi-director-james-comey-indicted-days
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "Truth Social on Saturday. Indictment on Thursday. The replacement prosecutor was the former personal lawyer. Buddy."
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

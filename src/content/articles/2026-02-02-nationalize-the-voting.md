@@ -10,9 +10,6 @@ sourceUrl: "https://www.washingtonpost.com/politics/2026/02/02/trump-elections-n
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Said on a podcast: Republicans should 'take over' the voting in 'at least, many, fifteen places.'"
-photo: ../../assets/articles/trump-portrait-2025.jpg
-photoAlt: "Official portrait of the President of the United States, 2025."
-photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18
