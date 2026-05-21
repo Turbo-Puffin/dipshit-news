@@ -10,6 +10,9 @@ sourceUrl: "https://en.wikipedia.org/wiki/2026_state_visit_by_Donald_Trump_to_Ch
 sourcePublisher: "Wikipedia"
 readTime: "3 min read"
 blurb: "The state visit to China gets pushed five weeks. The administration cited the war as the reason. The administration also said the war is over."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

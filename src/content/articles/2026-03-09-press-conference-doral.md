@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/09/nx-s1-5742591/trump-press-conference-
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "First wartime press conference. Held at his own resort. Two hours of quotes that contradict each other on tape."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

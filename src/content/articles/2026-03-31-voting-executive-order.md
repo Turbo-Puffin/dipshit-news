@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-b
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Tuesday afternoon: an executive order on federal elections, signed in the Oval Office. The Constitution gives that authority to states and Congress."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

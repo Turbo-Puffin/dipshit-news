@@ -10,6 +10,9 @@ sourceUrl: "https://www.cbsnews.com/minnesota/news/award-payments-usda-suspended
 sourcePublisher: "CBS Minnesota"
 readTime: "3 min read"
 blurb: "$129 million in USDA funds frozen to Minnesota by letter on a Friday. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

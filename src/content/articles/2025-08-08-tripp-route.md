@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/8/8/azerbaijan-and-armenia-sign-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "A real and serious diplomatic achievement, named for the man at the podium, with a 99-year U.S. claim attached."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

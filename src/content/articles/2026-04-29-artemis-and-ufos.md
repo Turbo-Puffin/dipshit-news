@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trum
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Wiseman, Glover, Koch, Hansen. They flew around the Moon. The Oval Q&A ran on Iran, the Comey indictment, and UFOs."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

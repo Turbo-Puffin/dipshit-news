@@ -10,6 +10,9 @@ sourceUrl: "https://www.presidency.ucsb.edu/documents/proclamation-10996-nationa
 sourcePublisher: "American Presidency Project"
 readTime: "2 min read"
 blurb: "The proclamation, signed Friday, was the verb 'annihilate' inside a remembrance for the men who died at Pearl Harbor. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

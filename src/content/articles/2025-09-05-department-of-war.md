@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "The order is a rebrand. Only Congress can rename the department. The website is now war.gov."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

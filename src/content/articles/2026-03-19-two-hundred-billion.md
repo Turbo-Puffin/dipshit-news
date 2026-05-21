@@ -10,6 +10,9 @@ sourceUrl: "https://edition.cnn.com/politics/live-news/worldwide-threat-assessme
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Two hundred billion in new funding for a war the President says is almost over. The Defense Secretary, asked about it, did not deny the figure."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

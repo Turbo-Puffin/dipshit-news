@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2025/10/03/trump-face-coin-treasury-dollar.html
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "The 250th birthday coin is the President's profile on the front and 'FIGHT FIGHT FIGHT' on the back. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

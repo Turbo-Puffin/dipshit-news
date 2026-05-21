@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2025/08/11/trump-national-gu
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Federal takeover of DC police, declared on the basis of a crime emergency the actual data does not support."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

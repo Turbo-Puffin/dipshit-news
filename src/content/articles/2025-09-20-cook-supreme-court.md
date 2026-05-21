@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/economy/2025/9/18/trump-asks-supreme-court
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Two courts denied. The administration filed at the Supreme Court. The Fed meets in three days."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

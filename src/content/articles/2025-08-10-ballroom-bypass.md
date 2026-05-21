@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/politics/2025/08/10/trump-ballroom-wh
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Federal review of additions to the White House has existed since 1910. This time the answer is: maybe later."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 11

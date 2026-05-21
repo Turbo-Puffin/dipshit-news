@@ -10,6 +10,9 @@ sourceUrl: "https://www.opb.org/article/2026/05/09/trump-says-russia-and-ukraine
 sourcePublisher: "OPB / NPR"
 readTime: "3 min read"
 blurb: "Three days of quiet, a prisoner swap, and a Russian holiday parade in the middle. The President called it the beginning of the end."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/congress/first-6-days-iran-war-cost
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "Eleven point three billion dollars in six days, on a four-point objectives sheet."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

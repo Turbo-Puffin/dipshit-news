@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/justice-department/justice-departme
 sourcePublisher: "NBC News"
 readTime: "3 min read"
 blurb: "59-39 Senate vote. Seven Democrats said yes. The new director immediately signed thirty-four notices of rulemaking."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

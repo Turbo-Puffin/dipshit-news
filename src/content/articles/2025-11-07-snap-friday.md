@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2025/11/06/politics/snap-november-payments"
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Judge said pay it all. Administration said let's pay 65%. Then 0%. Then asked the Supreme Court for permission."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 6

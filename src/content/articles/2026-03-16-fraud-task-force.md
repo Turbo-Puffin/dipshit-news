@@ -10,6 +10,9 @@ sourceUrl: "https://ballotpedia.org/Executive_Order:_Establishing_the_Task_Force
 sourcePublisher: "Ballotpedia"
 readTime: "3 min read"
 blurb: "An executive order to crack down on fraud, signed by the President, chaired by his Vice President, while the same week's Doral summit was billed back to State."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

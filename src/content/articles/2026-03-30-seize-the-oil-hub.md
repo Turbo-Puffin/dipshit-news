@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-23-2
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "Monday morning, on a phone call: maybe we just take an Iranian oil hub. Which hub, sir? 'You'll see.'"
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

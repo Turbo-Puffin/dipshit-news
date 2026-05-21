@@ -10,6 +10,9 @@ sourceUrl: "https://newrepublic.com/post/200317/trump-flags-half-mast-charlie-ki
 sourcePublisher: "The New Republic"
 readTime: "3 min read"
 blurb: "Flags down for the activist. No flag order for the assassinated state lawmaker in June. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

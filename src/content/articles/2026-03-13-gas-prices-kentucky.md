@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/13/nx-s1-5747088/the-news-roundup-for-ma
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Two weeks into the war, two stops in two days, one talking point. Gas is high because the war is going great."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

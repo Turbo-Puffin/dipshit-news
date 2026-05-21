@@ -10,6 +10,9 @@ sourceUrl: "https://www.politifact.com/article/2026/jan/20/trump-press-briefing-
 sourcePublisher: "PolitiFact"
 readTime: "3 min read"
 blurb: "104 minutes. A book held up. 365 wins. The fact-checkers had to add pages."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 8

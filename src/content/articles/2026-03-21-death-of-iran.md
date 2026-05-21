@@ -10,6 +10,9 @@ sourceUrl: "https://www.youtube.com/watch?v=qJxLYM2TYLE"
 sourcePublisher: "CTV National News"
 readTime: "3 min read"
 blurb: "The President declared Iran dead and the Democratic Party the greatest remaining enemy. The actual country, by all measures, is still alive."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

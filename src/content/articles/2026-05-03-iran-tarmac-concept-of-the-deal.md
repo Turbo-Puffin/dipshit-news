@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "He hadn't read the fourteen-point Iran peace proposal. He had, however, been told the concept of it."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

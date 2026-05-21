@@ -10,6 +10,9 @@ sourceUrl: "https://time.com/7325314/trump-israel-knesset-speech-hamas-cease-fir
 sourcePublisher: "TIME"
 readTime: "3 min read"
 blurb: "He told the Knesset 'the war is over.' Phase one is the only phase that exists on paper. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

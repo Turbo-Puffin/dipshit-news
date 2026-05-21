@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/08/23/nx-s1-5509554/rose-garden-paved"
 sourcePublisher: "NPR"
 readTime: "2 min read"
 blurb: "The grass came out. The stone went in. Yellow-and-white umbrellas. A speaker system. The President can DJ."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

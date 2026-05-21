@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictmen
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "The career prosecutor said no case. He got pushed out. The insurance lawyer who replaced him secured the indictment. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

@@ -10,6 +10,9 @@ sourceUrl: "https://thehill.com/policy/technology/5467734-trump-selects-airbnb-c
 sourcePublisher: "The Hill"
 readTime: "2 min read"
 blurb: "We have a Chief Design Officer now. He helped invent staying in a stranger's house. Hon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

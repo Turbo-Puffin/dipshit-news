@@ -10,6 +10,9 @@ sourceUrl: "https://foreignpolicy.com/2026/01/21/trump-davos-speech-transcript-g
 sourcePublisher: "Foreign Policy"
 readTime: "3 min read"
 blurb: "He said force was off the table. He said it from a stage in Switzerland. The tariffs were quietly walked back the same hour."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnn.com/2026/03/03/politics/trump-iran-war-explanations-
 sourcePublisher: "CNN"
 readTime: "3 min read"
 blurb: "The President's messaging on the war has been marked by exaggerated threats and shifting, contradictory objectives."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

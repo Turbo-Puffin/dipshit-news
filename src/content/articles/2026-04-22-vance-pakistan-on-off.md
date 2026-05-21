@@ -10,6 +10,9 @@ sourceUrl: "https://www.axios.com/2026/04/21/iran-us-war-peace-talks-vance-pakis
 sourcePublisher: "Axios"
 readTime: "3 min read"
 blurb: "On the schedule. Off the schedule. Back to the residence. The Pakistanis were posting status updates because Iran had not confirmed it was coming."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

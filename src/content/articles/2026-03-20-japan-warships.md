@@ -10,6 +10,9 @@ sourceUrl: "https://www.whitehouse.gov/videos/president-trump-gaggles-with-press
 sourcePublisher: "The White House"
 readTime: "3 min read"
 blurb: "On the South Lawn, before Marine One, the President asked an ally to do something its founding document forbids."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

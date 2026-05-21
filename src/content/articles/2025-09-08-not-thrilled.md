@@ -10,6 +10,9 @@ sourceUrl: "https://www.washingtonpost.com/world/2025/09/09/qatar-doha-explosion
 sourcePublisher: "Washington Post"
 readTime: "3 min read"
 blurb: "Israel bombed Doha to hit Hamas negotiators discussing his own ceasefire. He found out after. He was 'not thrilled.'"
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 17

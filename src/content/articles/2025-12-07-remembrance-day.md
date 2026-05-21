@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/donald-trump/trump-rings-christmas-
 sourcePublisher: "NBC News"
 readTime: "2 min read"
 blurb: "Eighty-four years on. The flag is at half-staff. The feed is on grievance. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 9

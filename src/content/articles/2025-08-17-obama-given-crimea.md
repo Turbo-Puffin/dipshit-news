@@ -10,6 +10,9 @@ sourceUrl: "https://www.nbcnews.com/politics/white-house/trump-pressures-ukraine
 sourcePublisher: "NBC News"
 readTime: "2 min read"
 blurb: "Russia seized Crimea by force in 2014. The President's verb of choice on Sunday night was 'given.'"
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 5

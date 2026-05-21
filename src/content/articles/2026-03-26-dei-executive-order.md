@@ -10,6 +10,9 @@ sourceUrl: "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-d
 sourcePublisher: "The White House"
 readTime: "3 min read"
 blurb: "Executive Order 14398 instructs every federal contracting officer to add a clause prohibiting DEI activities. The clause is not yet drafted."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

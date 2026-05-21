@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/Politics/trump-privately-expresses-frustration-n
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "Three Republicans voted against. The new Secretary takes over an agency where most workers have not been paid in five weeks."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

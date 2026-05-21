@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2025/9/5/south-korea-objects-as-us-im
 sourcePublisher: "Al Jazeera"
 readTime: "3 min read"
 blurb: "Helicopters and drones over a battery plant being built by an ally. Three hundred South Koreans in shackles. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

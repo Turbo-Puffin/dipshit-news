@@ -10,6 +10,9 @@ sourceUrl: "https://heathercoxrichardson.substack.com/p/march-15-2026"
 sourcePublisher: "Heather Cox Richardson"
 readTime: "3 min read"
 blurb: "Forty-eight-hour ultimatum from the seventh tee. Iran ignored the clock. The clock ran out. The next post moved it to seventy-two."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

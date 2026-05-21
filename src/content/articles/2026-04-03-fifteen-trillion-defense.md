@@ -10,6 +10,9 @@ sourceUrl: "https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blo
 sourcePublisher: "CNBC"
 readTime: "3 min read"
 blurb: "An F-15E shot down over Iran. A trillion-dollar base Pentagon request the same week. The President said the regime knows what has to be done."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

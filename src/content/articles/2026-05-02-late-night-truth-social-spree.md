@@ -10,6 +10,9 @@ sourceUrl: "https://www.salon.com/2026/05/02/i-have-all-the-cards-trumps-late-ni
 sourcePublisher: "Salon"
 readTime: "3 min read"
 blurb: "Eleven posts in forty-two minutes, after eleven at night, on a Friday. The President is doing fine."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

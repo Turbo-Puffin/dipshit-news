@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/04/24/nx-s1-5798990/doj-firing-squads-execu
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Firing squads, electrocution, gas chambers. Announced by the Acting Attorney General on a Friday afternoon."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

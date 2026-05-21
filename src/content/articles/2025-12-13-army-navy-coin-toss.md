@@ -10,6 +10,9 @@ sourceUrl: "https://www.thedailybeast.com/donald-trump79-stuns-with-inability-to
 sourcePublisher: "The Daily Beast"
 readTime: "3 min read"
 blurb: "He grabbed the coin. He lobbed it up. It did not rotate. It came down. Army won. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 13

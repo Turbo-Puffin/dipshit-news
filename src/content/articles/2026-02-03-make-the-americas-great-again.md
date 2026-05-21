@@ -10,6 +10,9 @@ sourceUrl: "https://www.aljazeera.com/news/2026/2/4/a-great-honor-takeaways-from
 sourcePublisher: "Al Jazeera"
 readTime: "2 min read"
 blurb: "Two hours behind closed doors. The President called Petro 'terrific.' Petro corrected the hat in pen."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 18

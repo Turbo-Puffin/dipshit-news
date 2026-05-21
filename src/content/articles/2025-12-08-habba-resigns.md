@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey
 sourcePublisher: "NPR"
 readTime: "2 min read"
 blurb: "She resigned eight days after the appeals-court ruling that said she was sitting in the chair unlawfully."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 12

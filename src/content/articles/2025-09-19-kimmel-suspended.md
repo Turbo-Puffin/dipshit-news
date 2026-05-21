@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2025/09/24/nx-s1-5552132/examining-kimmels-brief
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "FCC chair threatens ABC. ABC pulls Kimmel. President posts CONGRATULATIONS. Buddy."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 rubric:
   - label: "Factual basis"
     score: 16

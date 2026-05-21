@@ -10,6 +10,9 @@ sourceUrl: "https://www.npr.org/2026/03/28/nx-s1-5763702/no-kings-saturday-prote
 sourcePublisher: "NPR"
 readTime: "3 min read"
 blurb: "Three thousand events nationwide. Crowds in every major American city and a few abroad. The President called them paid actors."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"

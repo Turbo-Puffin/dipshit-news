@@ -10,6 +10,9 @@ sourceUrl: "https://abcnews.com/Politics/irans-supreme-leader-long-approval-trum
 sourcePublisher: "ABC News"
 readTime: "3 min read"
 blurb: "On day four of the war, the President told ABC News that the next supreme leader of Iran would need his personal approval, or else."
+photo: ../../assets/articles/trump-portrait-2025.jpg
+photoAlt: "Official portrait of the President of the United States, 2025."
+photoCaption: "Official White House photo by Daniel Torok, 2025. Public domain."
 featured: false
 rubric:
   - label: "Factual basis"
