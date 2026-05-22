@@ -11,7 +11,7 @@ sourcePublisher: "CNN"
 readTime: "2 min read"
 pull: "we will NOT be doing the scheduled attack of Iran tomorrow."
 blurb: "Sunday night, the President warned on Truth Social that there would not be anything left of Iran. Monday afternoon, after three Gulf-state phone calls, the same Truth Social account announced the attack was off. CNN, the Washington Post, and CNBC carried both posts."
-featured: false
+featured: true
 rubric:
   - label: "Factual basis"
     score: 24
