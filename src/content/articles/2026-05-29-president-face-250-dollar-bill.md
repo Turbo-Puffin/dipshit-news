@@ -11,7 +11,7 @@ sourcePublisher: "Washington Post"
 readTime: "2 min read"
 pull: "I don't think that there's anything untoward about"
 blurb: "The Treasury's printing office has drawn up a $250 bill with the President's face on it, a denomination that does not exist featuring a living person the law forbids on the money. The Treasury Secretary went on camera to call it normal."
-featured: false
+featured: true
 rubric:
   - label: "Factual basis"
     score: 24
