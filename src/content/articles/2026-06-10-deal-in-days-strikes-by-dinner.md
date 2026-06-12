@@ -17,7 +17,7 @@ rubric:
   - { label: 'Staff containment', score: 6,  cap: 20, note: 'The White House defends the forecasting habit instead of hiding it.' }
   - { label: 'Recovery attempt',  score: 2,  cap: 15, note: 'No walk-back. Strikes launched hours after the peace timeline.' }
   - { label: 'Public spectacle',  score: 16, cap: 20, note: 'An NBA Finals gaggle, a 3 percent intraday Nasdaq dive, wall-to-wall coverage.' }
-featured: false
+featured: true
 draft: false
 ---
 
